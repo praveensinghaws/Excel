@@ -1,0 +1,1 @@
+= Date.ToText([date],"yyyy") & "/" & Text.PadStart(Text.From(Date.Day([date])),2,"0") & "/" & Text.PadStart(Text.From(Date.Month([date])),2,"0")

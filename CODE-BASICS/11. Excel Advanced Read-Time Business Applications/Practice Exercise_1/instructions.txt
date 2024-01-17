@@ -1,0 +1,9 @@
+The purpose of this assignment is to create a visually appealing version of the "Project_Priority Matrix.xlsx" file.
+
+
+"Project Priority Matrix_Beautified.pdf" is the file which Peter created - you can take inspiration from this.
+
+
+Task: To achieve this, you should download the provided "Project_Priority Matrix.xlsx" file and make the necessary modifications. 
+
+
