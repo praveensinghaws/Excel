@@ -1,0 +1,141 @@
+﻿Segment,Country,Product,Discount Band,Units Sold,Manufacturing Price,Sale Price,Gross Sales,Discounts,Sales,COGS,Profit,Date,Year
+Government,France,VTT,None,1527,250,350,"5,34,450",0,"5,34,450","3,97,020","1,37,430",Sep-22,2022
+Government,France,Amarilla,None,2750,260,350,"9,62,500",0,"9,62,500","7,15,000","2,47,500",Feb-23,2023
+Government,France,Carretera,Low,2155,3,350,"7,54,250","7,543","7,46,708","5,60,300","1,86,408",Dec-23,2023
+Government,France,Paseo,Low,2155,10,350,"7,54,250","7,543","7,46,708","5,60,300","1,86,408",Dec-23,2023
+Government,France,Velo,Low,2177,120,350,"7,61,950","30,478","7,31,472","5,66,020","1,65,452",Oct-23,2023
+Government,France,VTT,Low,2177,250,350,"7,61,950","30,478","7,31,472","5,66,020","1,65,452",Oct-23,2023
+Government,France,Montana,Medium,1384.5,5,350,"4,84,575","24,229","4,60,346","3,59,970","1,00,376",Jan-23,2023
+Government,France,Paseo,Medium,1496,10,350,"5,23,600","31,416","4,92,184","3,88,960","1,03,224",Jun-23,2023
+Government,France,Velo,Medium,1496,120,350,"5,23,600","31,416","4,92,184","3,88,960","1,03,224",Jun-23,2023
+Government,France,Velo,Medium,2076,120,350,"7,26,600","43,596","6,83,004","5,39,760","1,43,244",Oct-22,2022
+Government,France,Amarilla,Medium,2076,260,350,"7,26,600","43,596","6,83,004","5,39,760","1,43,244",Oct-22,2022
+Government,France,Amarilla,Medium,2876,260,350,"10,06,600","70,462","9,36,138","7,47,760","1,88,378",Sep-23,2023
+Government,France,VTT,Medium,574.5,250,350,"2,01,075","16,086","1,84,989","1,49,370","35,619",Apr-23,2023
+Government,France,VTT,Medium,381,250,350,"1,33,350","10,668","1,22,682","99,060","23,622",Aug-23,2023
+Government,France,Montana,Medium,1666,5,350,"5,83,100","52,479","5,30,621","4,33,160","97,461",May-23,2023
+Government,France,Velo,High,639,120,350,"2,23,650","22,365","2,01,285","1,66,140","35,145",Jul-23,2023
+Government,France,Paseo,High,1594,10,350,"5,57,900","66,948","4,90,952","4,14,440","76,512",Nov-23,2023
+Government,France,Carretera,High,1790,3,350,"6,26,500","81,445","5,45,055","4,65,400","79,655",Mar-23,2023
+Government,France,Paseo,High,1922,10,350,"6,72,700","94,178","5,78,522","4,99,720","78,802",Nov-22,2022
+Government,France,VTT,High,1281,250,350,"4,48,350","62,769","3,85,581","3,33,060","52,521",Dec-22,2022
+Government,France,Montana,None,1899,5,20,"37,980",0,"37,980","18,990","18,990",Jun-23,2023
+Government,France,Amarilla,None,1899,260,20,"37,980",0,"37,980","18,990","18,990",Jun-23,2023
+Government,France,Montana,Low,1375.5,5,20,"27,510",275,"27,235","13,755","13,480",Jul-23,2023
+Government,France,Velo,Low,3864,120,20,"77,280",773,"76,507","38,640","37,867",Apr-23,2023
+Government,France,Amarilla,Low,941,260,20,"18,820",376,"18,444","9,410","9,034",Nov-23,2023
+Government,France,Carretera,Medium,1563,3,20,"31,260","1,563","29,697","15,630","14,067",May-23,2023
+Government,France,Paseo,Medium,1303,10,20,"26,060","1,303","24,757","13,030","11,727",Feb-23,2023
+Government,France,Velo,Medium,1579,120,20,"31,580","1,579","30,001","15,790","14,211",Aug-23,2023
+Government,France,Velo,Medium,1033,120,20,"20,660","1,033","19,627","10,330","9,297",Dec-22,2022
+Government,France,Montana,Medium,1757,5,20,"35,140","2,108","33,032","17,570","15,462",Oct-22,2022
+Government,France,Paseo,Medium,1757,10,20,"35,140","2,108","33,032","17,570","15,462",Oct-22,2022
+Government,France,Montana,Medium,1976,5,20,"39,520","2,766","36,754","19,760","16,994",Oct-23,2023
+Government,France,Paseo,Medium,1535,10,20,"30,700","2,149","28,551","15,350","13,201",Sep-23,2023
+Government,France,Velo,Medium,1976,120,20,"39,520","2,766","36,754","19,760","16,994",Oct-23,2023
+Government,France,VTT,Medium,2682,250,20,"53,640","4,828","48,812","26,820","21,992",Nov-22,2022
+Government,France,Paseo,High,1954,10,20,"39,080","3,908","35,172","19,540","15,632",Mar-23,2023
+Government,France,Velo,High,2805,120,20,"56,100","6,171","49,929","28,050","21,879",Sep-22,2022
+Government,France,Carretera,High,2521.5,3,20,"50,430","6,052","44,378","25,215","19,163",Jan-23,2023
+Government,France,Paseo,High,293,10,20,"5,860",879,"4,981","2,930","2,051",Dec-23,2023
+Government,France,VTT,High,293,250,20,"5,860",879,"4,981","2,930","2,051",Dec-23,2023
+Government,France,Paseo,Low,3945,10,7,"27,615",276,"27,339","19,725","7,614",Jan-23,2023
+Government,France,Paseo,Low,1030,10,7,"7,210",72,"7,138","5,150","1,988",May-23,2023
+Government,France,Velo,Low,639,120,7,"4,473",45,"4,428","3,195","1,233",Nov-23,2023
+Government,France,Carretera,Low,2145,3,7,"15,015",300,"14,715","10,725","3,990",Nov-22,2022
+Government,France,Montana,Low,544,5,7,"3,808",114,"3,694","2,720",974,Sep-23,2023
+Government,France,Carretera,Medium,2487,3,7,"17,409",870,"16,539","12,435","4,104",Dec-23,2023
+Government,France,Paseo,Medium,2136,10,7,"14,952",748,"14,204","10,680","3,524",Dec-22,2022
+Government,France,VTT,Medium,2487,250,7,"17,409",870,"16,539","12,435","4,104",Dec-23,2023
+Government,France,Montana,Medium,1403,5,7,"9,821",589,"9,232","7,015","2,217",Oct-22,2022
+Government,France,Amarilla,Medium,1403,260,7,"9,821",589,"9,232","7,015","2,217",Oct-22,2022
+Government,France,Paseo,Medium,1031,10,7,"7,217",505,"6,712","5,155","1,557",Sep-22,2022
+Government,France,Paseo,High,2532,10,7,"17,724","1,950","15,774","12,660","3,114",Apr-23,2023
+Government,France,Amarilla,High,3421.5,260,7,"23,951","2,874","21,076","17,108","3,969",Jul-23,2023
+Government,France,VTT,High,1491,250,7,"10,437","1,252","9,185","7,455","1,730",Mar-23,2023
+Government,France,Paseo,High,2696,10,7,"18,872","2,453","16,419","13,480","2,939",Aug-23,2023
+Government,France,Velo,High,1190,120,7,"8,330","1,083","7,247","5,950","1,297",Jun-23,2023
+Government,France,Amarilla,High,1190,260,7,"8,330","1,083","7,247","5,950","1,297",Jun-23,2023
+Government,France,Montana,High,293,5,7,"2,051",287,"1,764","1,465",299,Feb-23,2023
+Government,France,Paseo,High,1731,10,7,"12,117","1,696","10,421","8,655","1,766",Oct-23,2023
+Government,France,Amarilla,High,1731,260,7,"12,117","1,696","10,421","8,655","1,766",Oct-23,2023
+Midmarket,France,Carretera,None,2178,3,15,"32,670",0,"32,670","21,780","10,890",Jun-23,2023
+Enterprise,France,Velo,None,1804,120,125,"2,25,500",0,"2,25,500","2,16,480","9,020",Feb-23,2023
+Midmarket,France,VTT,None,2178,250,15,"32,670",0,"32,670","21,780","10,890",Jun-23,2023
+Small Business,France,VTT,None,2151,250,300,"6,45,300",0,"6,45,300","5,37,750","1,07,550",Sep-23,2023
+Channel Partners,France,Carretera,Low,2671,3,12,"32,052",321,"31,731","8,013","23,718",Sep-23,2023
+Enterprise,France,VTT,Low,787,250,125,"98,375",984,"97,391","94,440","2,951",Jun-23,2023
+Enterprise,France,VTT,Low,1744,250,125,"2,18,000","2,180","2,15,820","2,09,280","6,540",Nov-23,2023
+Midmarket,France,Amarilla,Low,321,260,15,"4,815",48,"4,767","3,210","1,557",Nov-22,2022
+Channel Partners,France,Velo,Low,1055,120,12,"12,660",253,"12,407","3,165","9,242",Dec-23,2023
+Enterprise,France,Carretera,Low,4243.5,3,125,"5,30,438","15,913","5,14,524","5,09,220","5,304",Apr-23,2023
+Channel Partners,France,Montana,Low,1901,5,12,"22,812",684,"22,128","5,703","16,425",Jun-23,2023
+Enterprise,France,Montana,Low,1287,5,125,"1,60,875","4,826","1,56,049","1,54,440","1,609",Dec-23,2023
+Channel Partners,France,VTT,Low,866,250,12,"10,392",416,"9,976","2,598","7,378",May-23,2023
+Channel Partners,France,Carretera,Medium,1865,3,12,"22,380","1,119","21,261","5,595","15,666",Feb-23,2023
+Enterprise,France,Velo,Medium,704,120,125,"88,000","4,400","83,600","84,480",-880,Oct-22,2022
+Small Business,France,Velo,Medium,1221,120,300,"3,66,300","21,978","3,44,322","3,05,250","39,072",Oct-22,2022
+Small Business,France,VTT,Medium,1221,250,300,"3,66,300","21,978","3,44,322","3,05,250","39,072",Oct-22,2022
+Enterprise,France,Amarilla,Medium,1987.5,260,125,"2,48,438","14,906","2,33,531","2,38,500","-4,969",Jan-23,2023
+Channel Partners,France,Montana,Medium,2342,5,12,"28,104","1,967","26,137","7,026","19,111",Nov-23,2023
+Channel Partners,France,VTT,Medium,1738.5,250,12,"20,862","1,460","19,402","5,216","14,186",Apr-23,2023
+Small Business,France,Carretera,Medium,448,3,300,"1,34,400","9,408","1,24,992","1,12,000","12,992",Jun-23,2023
+Small Business,France,Carretera,Medium,2181,3,300,"6,54,300","45,801","6,08,499","5,45,250","63,249",Oct-23,2023
+Small Business,France,Montana,Medium,2181,5,300,"6,54,300","45,801","6,08,499","5,45,250","63,249",Oct-23,2023
+Small Business,France,Velo,Medium,1659,120,300,"4,97,700","34,839","4,62,861","4,14,750","48,111",Jul-23,2023
+Small Business,France,VTT,Medium,959,250,300,"2,87,700","20,139","2,67,561","2,39,750","27,811",Feb-23,2023
+Midmarket,France,Carretera,Medium,490,3,15,"7,350",588,"6,762","4,900","1,862",Nov-23,2023
+Midmarket,France,Montana,Medium,2501,5,15,"37,515","3,001","34,514","25,010","9,504",Mar-23,2023
+Small Business,France,Montana,Medium,1562,5,300,"4,68,600","37,488","4,31,112","3,90,500","40,612",Aug-23,2023
+Small Business,France,Velo,Medium,386,120,300,"1,15,800","9,264","1,06,536","96,500","10,036",Nov-22,2022
+Small Business,France,Montana,Medium,322,5,300,"96,600","8,694","87,906","80,500","7,406",Sep-22,2022
+Enterprise,France,Montana,Medium,1857,5,125,"2,32,125","20,891","2,11,234","2,22,840","-11,606",Nov-22,2022
+Channel Partners,France,VTT,Medium,2234,250,12,"26,808","2,413","24,395","6,702","17,693",Sep-22,2022
+Midmarket,France,VTT,Medium,1227,250,15,"18,405","1,656","16,749","12,270","4,479",Oct-23,2023
+Channel Partners,France,Velo,Medium,1967,120,12,"23,604","2,124","21,480","5,901","15,579",Mar-23,2023
+Channel Partners,France,Amarilla,Medium,306,260,12,"3,672",330,"3,342",918,"2,424",Dec-22,2022
+Enterprise,France,Carretera,High,1482,3,125,"1,85,250","18,525","1,66,725","1,77,840","-11,115",Dec-22,2022
+Midmarket,France,Montana,High,2072,5,15,"31,080","3,108","27,972","20,720","7,252",Dec-23,2023
+Small Business,France,Velo,High,853,120,300,"2,55,900","25,590","2,30,310","2,13,250","17,060",Dec-23,2023
+Midmarket,France,VTT,High,2167,250,15,"32,505","3,251","29,255","21,670","7,585",Oct-22,2022
+Midmarket,France,Amarilla,High,2072,260,15,"31,080","3,108","27,972","20,720","7,252",Dec-23,2023
+Small Business,France,Amarilla,High,853,260,300,"2,55,900","25,590","2,30,310","2,13,250","17,060",Dec-23,2023
+Channel Partners,France,Carretera,High,1198,3,12,"14,376","1,581","12,795","3,594","9,201",Oct-22,2022
+Enterprise,France,Carretera,High,2441,3,125,"3,05,125","33,564","2,71,561","2,92,920","-21,359",Oct-23,2023
+Channel Partners,France,VTT,High,1734,250,12,"20,808","2,289","18,519","5,202","13,317",Jan-23,2023
+Enterprise,France,Amarilla,High,1433,260,125,"1,79,125","19,704","1,59,421","1,71,960","-12,539",May-23,2023
+Small Business,France,Montana,High,1773,5,300,"5,31,900","63,828","4,68,072","4,43,250","24,822",Apr-23,2023
+Small Business,France,Montana,High,1186,5,300,"3,55,800","42,696","3,13,104","2,96,500","16,604",Dec-22,2022
+Midmarket,France,VTT,High,3874.5,250,15,"58,118","6,974","51,143","38,745","12,398",Jul-23,2023
+Midmarket,France,Velo,High,3997.5,120,15,"59,963","7,795","52,167","39,975","12,192",Jan-23,2023
+Channel Partners,France,Amarilla,High,1393,260,12,"16,716","2,340","14,376","4,179","10,197",Oct-23,2023
+Enterprise,France,Carretera,High,1023,3,125,"1,27,875","17,903","1,09,973","1,22,760","-12,788",Sep-22,2022
+Channel Partners,France,Amarilla,High,2475,260,12,"29,700","4,158","25,542","7,425","18,117",Aug-23,2023
+Enterprise,France,Carretera,High,1174,3,125,"1,46,750","22,013","1,24,738","1,40,880","-16,143",Aug-23,2023
+Midmarket,France,Velo,High,2826,120,15,"42,390","6,359","36,032","28,260","7,772",May-23,2023
+Enterprise,France,Velo,High,663,120,125,"82,875","12,431","70,444","79,560","-9,116",Sep-23,2023
+Small Business,France,Amarilla,High,2475,260,300,"7,42,500","1,11,375","6,31,125","6,18,750","12,375",Mar-23,2023
+Midmarket,France,Paseo,None,549,10,15,"8,235",0,"8,235","5,490","2,745",Sep-22,2022
+Midmarket,France,Paseo,Low,2296,10,15,"34,440",344,"34,096","22,960","11,136",Feb-23,2023
+Enterprise,France,Paseo,Low,787,10,125,"98,375",984,"97,391","94,440","2,951",Jun-23,2023
+Small Business,France,Paseo,Low,918,10,300,"2,75,400","5,508","2,69,892","2,29,500","40,392",May-23,2023
+Channel Partners,France,Paseo,Low,1785,10,12,"21,420",428,"20,992","5,355","15,637",Nov-22,2022
+Channel Partners,France,Paseo,Low,1055,10,12,"12,660",253,"12,407","3,165","9,242",Dec-23,2023
+Small Business,France,Paseo,Low,2434.5,10,300,"7,30,350","21,911","7,08,440","6,08,625","99,815",Jan-23,2023
+Channel Partners,France,Paseo,Low,1901,10,12,"22,812",684,"22,128","5,703","16,425",Jun-23,2023
+Enterprise,France,Paseo,Low,1287,10,125,"1,60,875","4,826","1,56,049","1,54,440","1,609",Dec-23,2023
+Midmarket,France,Paseo,Low,2261,10,15,"33,915","1,357","32,558","22,610","9,948",Dec-22,2022
+Enterprise,France,Paseo,Low,2988,10,125,"3,73,500","14,940","3,58,560","3,58,560",0,Jul-23,2023
+Enterprise,France,Paseo,Medium,2385,10,125,"2,98,125","14,906","2,83,219","2,86,200","-2,981",Mar-23,2023
+Midmarket,France,Paseo,Medium,2620,10,15,"39,300","1,965","37,335","26,200","11,135",Sep-23,2023
+Enterprise,France,Paseo,Medium,704,10,125,"88,000","4,400","83,600","84,480",-880,Oct-22,2022
+Midmarket,France,Paseo,Medium,3801,10,15,"57,015","3,421","53,594","38,010","15,584",Apr-23,2023
+Small Business,France,Paseo,Medium,448,10,300,"1,34,400","9,408","1,24,992","1,12,000","12,992",Jun-23,2023
+Midmarket,France,Paseo,Medium,2101,10,15,"31,515","2,206","29,309","21,010","8,299",Aug-23,2023
+Midmarket,France,Paseo,Medium,1227,10,15,"18,405","1,656","16,749","12,270","4,479",Oct-23,2023
+Small Business,France,Paseo,Medium,1324,10,300,"3,97,200","35,748","3,61,452","3,31,000","30,452",Nov-23,2023
+Midmarket,France,Paseo,High,2167,10,15,"32,505","3,251","29,255","21,670","7,585",Oct-22,2022
+Channel Partners,France,Paseo,High,1198,10,12,"14,376","1,581","12,795","3,594","9,201",Oct-22,2022
+Channel Partners,France,Paseo,High,2425.5,10,12,"29,106","3,202","25,904","7,277","18,628",Jul-23,2023
+Enterprise,France,Paseo,High,2441,10,125,"3,05,125","33,564","2,71,561","2,92,920","-21,359",Oct-23,2023
+Channel Partners,France,Paseo,High,1393,10,12,"16,716","2,340","14,376","4,179","10,197",Oct-23,2023

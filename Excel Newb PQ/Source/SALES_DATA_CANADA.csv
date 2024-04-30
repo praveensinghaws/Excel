@@ -1,0 +1,141 @@
+﻿Segment,Country,Product,Discount Band,Units Sold,Manufacturing Price,Sale Price,Gross Sales,Discounts,Sales,COGS,Profit,Date,Year
+Government,Canada,Paseo,None,1725,10,350,"6,03,750",0,"6,03,750","4,48,500","1,55,250",Nov-22,2022
+Government,Canada,VTT,Low,943.5,250,350,"3,30,225","3,302","3,26,923","2,45,310","81,613",Apr-23,2023
+Government,Canada,Carretera,Low,2852,3,350,"9,98,200","19,964","9,78,236","7,41,520","2,36,716",Dec-23,2023
+Government,Canada,Paseo,Low,2852,10,350,"9,98,200","19,964","9,78,236","7,41,520","2,36,716",Dec-23,2023
+Government,Canada,Amarilla,Low,1778,260,350,"6,22,300","24,892","5,97,408","4,62,280","1,35,128",Dec-22,2022
+Government,Canada,Paseo,Medium,1228,10,350,"4,29,800","21,490","4,08,310","3,19,280","89,030",Oct-22,2022
+Government,Canada,Amarilla,Medium,552,260,350,"1,93,200","9,660","1,83,540","1,43,520","40,020",Aug-23,2023
+Government,Canada,Amarilla,Medium,1228,260,350,"4,29,800","21,490","4,08,310","3,19,280","89,030",Oct-22,2022
+Government,Canada,Velo,Medium,1269,120,350,"4,44,150","39,974","4,04,177","3,29,940","74,237",Oct-23,2023
+Government,Canada,Amarilla,Medium,1269,260,350,"4,44,150","39,974","4,04,177","3,29,940","74,237",Oct-23,2023
+Government,Canada,Amarilla,High,2240,260,350,"7,84,000","78,400","7,05,600","5,82,400","1,23,200",Feb-23,2023
+Government,Canada,Amarilla,High,707,260,350,"2,47,450","24,745","2,22,705","1,83,820","38,885",Sep-23,2023
+Government,Canada,Paseo,High,2104.5,10,350,"7,36,575","81,023","6,55,552","5,47,170","1,08,382",Jul-23,2023
+Government,Canada,VTT,High,623,250,350,"2,18,050","26,166","1,91,884","1,61,980","29,904",Sep-22,2022
+Government,Canada,Carretera,High,923,3,350,"3,23,050","41,997","2,81,054","2,39,980","41,074",Mar-23,2023
+Government,Canada,Paseo,High,2632,10,350,"9,21,200","1,19,756","8,01,444","6,84,320","1,17,124",Jun-23,2023
+Government,Canada,Velo,High,2632,120,350,"9,21,200","1,19,756","8,01,444","6,84,320","1,17,124",Jun-23,2023
+Government,Canada,Montana,High,2227.5,5,350,"7,79,625","1,09,148","6,70,478","5,79,150","91,328",Jan-23,2023
+Government,Canada,Montana,High,200,5,350,"70,000","9,800","60,200","52,000","8,200",May-23,2023
+Government,Canada,Paseo,High,700,10,350,"2,45,000","34,300","2,10,700","1,82,000","28,700",Nov-23,2023
+Government,Canada,Carretera,None,1618.5,3,20,"32,370",0,"32,370","16,185","16,185",Jan-23,2023
+Government,Canada,Paseo,None,292,10,20,"5,840",0,"5,840","2,920","2,920",Feb-23,2023
+Government,Canada,Paseo,None,1817,10,20,"36,340",0,"36,340","18,170","18,170",Dec-23,2023
+Government,Canada,VTT,None,1817,250,20,"36,340",0,"36,340","18,170","18,170",Dec-23,2023
+Government,Canada,Carretera,Low,831,3,20,"16,620",499,"16,121","8,310","7,811",May-23,2023
+Government,Canada,Velo,Low,3850.5,120,20,"77,010","2,310","74,700","38,505","36,195",Apr-23,2023
+Government,Canada,Paseo,Low,2074,10,20,"41,480","1,659","39,821","20,740","19,081",Sep-23,2023
+Government,Canada,Velo,Low,2646,120,20,"52,920","2,117","50,803","26,460","24,343",Sep-22,2022
+Government,Canada,Paseo,Medium,1389,10,20,"27,780","1,389","26,391","13,890","12,501",Oct-22,2022
+Government,Canada,Paseo,Medium,1802,10,20,"36,040","1,802","34,238","18,020","16,218",Dec-22,2022
+Government,Canada,VTT,Medium,1389,250,20,"27,780","1,389","26,391","13,890","12,501",Oct-22,2022
+Government,Canada,Amarilla,Medium,1118,260,20,"22,360","1,565","20,795","11,180","9,615",Nov-23,2023
+Government,Canada,Montana,Medium,708,5,20,"14,160","1,133","13,027","7,080","5,947",Jun-23,2023
+Government,Canada,Amarilla,Medium,708,260,20,"14,160","1,133","13,027","7,080","5,947",Jun-23,2023
+Government,Canada,Paseo,High,2394,10,20,"47,880","5,267","42,613","23,940","18,673",Aug-23,2023
+Government,Canada,VTT,High,2935,250,20,"58,700","6,457","52,243","29,350","22,893",Nov-22,2022
+Government,Canada,Montana,High,1249,5,20,"24,980","3,247","21,733","12,490","9,243",Oct-23,2023
+Government,Canada,Paseo,High,1249,10,20,"24,980","3,247","21,733","12,490","9,243",Oct-23,2023
+Government,Canada,Paseo,High,2428,10,20,"48,560","6,798","41,762","24,280","17,482",Mar-23,2023
+Government,Canada,VTT,High,865.5,250,20,"17,310","2,597","14,714","8,655","6,059",Jul-23,2023
+Government,Canada,VTT,Low,1326,250,7,"9,282",93,"9,189","6,630","2,559",Mar-23,2023
+Government,Canada,Montana,Low,1830,5,7,"12,810",128,"12,682","9,150","3,532",Aug-23,2023
+Government,Canada,Velo,Low,2092,120,7,"14,644",146,"14,498","10,460","4,038",Nov-22,2022
+Government,Canada,Carretera,Low,2851,3,7,"19,957",798,"19,159","14,255","4,904",Oct-22,2022
+Government,Canada,Montana,Low,2851,5,7,"19,957",798,"19,159","14,255","4,904",Oct-22,2022
+Government,Canada,Paseo,Low,4251,10,7,"29,757","1,190","28,567","21,255","7,312",Jan-23,2023
+Government,Canada,Paseo,Medium,2349,10,7,"16,443",822,"15,621","11,745","3,876",Sep-22,2022
+Government,Canada,Velo,Medium,1135,120,7,"7,945",556,"7,389","5,675","1,714",Jun-23,2023
+Government,Canada,Velo,Medium,1582,120,7,"11,074",775,"10,299","7,910","2,389",Dec-23,2023
+Government,Canada,VTT,Medium,1582,250,7,"11,074",775,"10,299","7,910","2,389",Dec-23,2023
+Government,Canada,Amarilla,Medium,1135,260,7,"7,945",556,"7,389","5,675","1,714",Jun-23,2023
+Government,Canada,Montana,Medium,488,5,7,"3,416",273,"3,143","2,440",703,Feb-23,2023
+Government,Canada,Paseo,Medium,257,10,7,"1,799",144,"1,655","1,285",370,May-23,2023
+Government,Canada,Montana,Medium,1611,5,7,"11,277","1,015","10,262","8,055","2,207",Dec-22,2022
+Government,Canada,Carretera,Medium,819,3,7,"5,733",516,"5,217","4,095","1,122",Jul-23,2023
+Government,Canada,Velo,High,1808,120,7,"12,656","1,392","11,264","9,040","2,224",Nov-23,2023
+Government,Canada,Montana,High,2734,5,7,"19,138","2,297","16,841","13,670","3,171",Oct-23,2023
+Government,Canada,Amarilla,High,2734,260,7,"19,138","2,297","16,841","13,670","3,171",Oct-23,2023
+Government,Canada,Montana,High,388,5,7,"2,716",380,"2,336","1,940",396,Sep-23,2023
+Government,Canada,Paseo,High,723,10,7,"5,061",759,"4,302","3,615",687,Apr-23,2023
+Channel Partners,Canada,Montana,None,2518,5,12,"30,216",0,"30,216","7,554","22,662",Jun-23,2023
+Enterprise,Canada,Montana,None,2665.5,5,125,"3,33,188",0,"3,33,188","3,19,860","13,328",Jul-23,2023
+Enterprise,Canada,Montana,None,345,5,125,"43,125",0,"43,125","41,400","1,725",Oct-22,2022
+Enterprise,Canada,Velo,None,345,120,125,"43,125",0,"43,125","41,400","1,725",Oct-22,2022
+Small Business,Canada,VTT,None,2001,250,300,"6,00,300",0,"6,00,300","5,00,250","1,00,050",Feb-23,2023
+Channel Partners,Canada,Carretera,Low,1445,3,12,"17,340",173,"17,167","4,335","12,832",Sep-23,2023
+Enterprise,Canada,Velo,Low,923,120,125,"1,15,375","1,154","1,14,221","1,10,760","3,461",Aug-23,2023
+Enterprise,Canada,Carretera,Low,742.5,3,125,"92,813","1,856","90,956","89,100","1,856",Apr-23,2023
+Channel Partners,Canada,Carretera,Low,1295,3,12,"15,540",311,"15,229","3,885","11,344",Oct-23,2023
+Enterprise,Canada,VTT,Low,2729,250,125,"3,41,125","6,823","3,34,303","3,27,480","6,823",Dec-23,2023
+Small Business,Canada,Amarilla,Low,1916,260,300,"5,74,800","11,496","5,63,304","4,79,000","84,304",Dec-23,2023
+Channel Partners,Canada,Carretera,Low,908,3,12,"10,896",327,"10,569","2,724","7,845",Dec-22,2022
+Enterprise,Canada,Velo,Low,2009,120,125,"2,51,125","7,534","2,43,591","2,41,080","2,511",Oct-23,2023
+Small Business,Canada,VTT,Low,1874,250,300,"5,62,200","16,866","5,45,334","4,68,500","76,834",Aug-23,2023
+Midmarket,Canada,Montana,Low,1967,5,15,"29,505","1,180","28,325","19,670","8,655",Mar-23,2023
+Channel Partners,Canada,Velo,Medium,2431,120,12,"29,172","1,459","27,713","7,293","20,420",Dec-23,2023
+Midmarket,Canada,Carretera,Medium,2844,3,15,"42,660","2,560","40,100","28,440","11,660",Jun-23,2023
+Channel Partners,Canada,Carretera,Medium,2299,3,12,"27,588","1,655","25,933","6,897","19,036",Oct-22,2022
+Enterprise,Canada,Velo,Medium,952,120,125,"1,19,000","7,140","1,11,860","1,14,240","-2,380",Feb-23,2023
+Midmarket,Canada,VTT,Medium,2844,250,15,"42,660","2,560","40,100","28,440","11,660",Jun-23,2023
+Small Business,Canada,VTT,Medium,2436,250,300,"7,30,800","43,848","6,86,952","6,09,000","77,952",Dec-22,2022
+Channel Partners,Canada,Carretera,Medium,1884,3,12,"22,608","1,583","21,025","5,652","15,373",Aug-23,2023
+Midmarket,Canada,Velo,Medium,1262,120,15,"18,930","1,325","17,605","12,620","4,985",May-23,2023
+Channel Partners,Canada,VTT,Medium,3244.5,250,12,"38,934","2,725","36,209","9,734","26,475",Jan-23,2023
+Enterprise,Canada,Amarilla,Medium,1645,260,125,"2,05,625","14,394","1,91,231","1,97,400","-6,169",May-23,2023
+Small Business,Canada,Montana,Medium,1283,5,300,"3,84,900","30,792","3,54,108","3,20,750","33,358",Sep-22,2022
+Channel Partners,Canada,Velo,Medium,598,120,12,"7,176",574,"6,602","1,794","4,808",Mar-23,2023
+Small Business,Canada,VTT,Medium,2134,250,300,"6,40,200","51,216","5,88,984","5,33,500","55,484",Sep-23,2023
+Small Business,Canada,Carretera,Medium,1094,3,300,"3,28,200","29,538","2,98,662","2,73,500","25,162",Jun-23,2023
+Small Business,Canada,Montana,Medium,3802.5,5,300,"11,40,750","1,02,668","10,38,083","9,50,625","87,458",Apr-23,2023
+Channel Partners,Canada,Montana,Medium,2321,5,12,"27,852","2,507","25,345","6,963","18,382",Nov-23,2023
+Small Business,Canada,Velo,Medium,3793.5,120,300,"11,38,050","1,02,425","10,35,626","9,48,375","87,251",Jul-23,2023
+Enterprise,Canada,Velo,Medium,567,120,125,"70,875","6,379","64,496","68,040","-3,544",Sep-23,2023
+Midmarket,Canada,Amarilla,Medium,1630.5,260,15,"24,458","2,201","22,256","16,305","5,951",Jul-23,2023
+Enterprise,Canada,Velo,High,1916,120,125,"2,39,500","23,950","2,15,550","2,29,920","-14,370",Dec-22,2022
+Enterprise,Canada,VTT,High,2529,250,125,"3,16,125","31,613","2,84,513","3,03,480","-18,968",Nov-23,2023
+Channel Partners,Canada,Amarilla,High,3520.5,260,12,"42,246","4,225","38,021","10,562","27,460",Apr-23,2023
+Midmarket,Canada,Velo,High,384,120,15,"5,760",634,"5,126","3,840","1,286",Jan-23,2023
+Channel Partners,Canada,Carretera,High,1937,3,12,"23,244","2,557","20,687","5,811","14,876",Feb-23,2023
+Midmarket,Canada,Carretera,High,1560,3,15,"23,400","2,574","20,826","15,600","5,226",Nov-22,2022
+Enterprise,Canada,Carretera,High,2416,3,125,"3,02,000","36,240","2,65,760","2,89,920","-24,160",Sep-22,2022
+Midmarket,Canada,Carretera,High,2689,3,15,"40,335","4,840","35,495","26,890","8,605",Nov-23,2023
+Channel Partners,Canada,VTT,High,2109,250,12,"25,308","3,037","22,271","6,327","15,944",May-23,2023
+Channel Partners,Canada,Amarilla,High,2761,260,12,"33,132","3,976","29,156","8,283","20,873",Sep-22,2022
+Enterprise,Canada,VTT,High,1583,250,125,"1,97,875","25,724","1,72,151","1,89,960","-17,809",Jun-23,2023
+Midmarket,Canada,VTT,High,1565,250,15,"23,475","3,052","20,423","15,650","4,773",Oct-23,2023
+Enterprise,Canada,Amarilla,High,1659,260,125,"2,07,375","26,959","1,80,416","1,99,080","-18,664",Jan-23,2023
+Small Business,Canada,Carretera,High,1496,3,300,"4,48,800","62,832","3,85,968","3,74,000","11,968",Oct-23,2023
+Midmarket,Canada,Carretera,High,2300,3,15,"34,500","4,830","29,670","23,000","6,670",Dec-23,2023
+Midmarket,Canada,Montana,High,2300,5,15,"34,500","4,830","29,670","23,000","6,670",Dec-23,2023
+Small Business,Canada,Velo,High,269,120,300,"80,700","11,298","69,402","67,250","2,152",Oct-22,2022
+Small Business,Canada,VTT,High,269,250,300,"80,700","11,298","69,402","67,250","2,152",Oct-22,2022
+Small Business,Canada,VTT,High,1496,250,300,"4,48,800","62,832","3,85,968","3,74,000","11,968",Oct-23,2023
+Small Business,Canada,Amarilla,High,888,260,300,"2,66,400","37,296","2,29,104","2,22,000","7,104",Mar-23,2023
+Midmarket,Canada,Amarilla,High,1743,260,15,"26,145","3,660","22,485","17,430","5,055",Oct-22,2022
+Enterprise,Canada,VTT,High,2954,250,125,"3,69,250","55,388","3,13,863","3,54,480","-40,618",Nov-22,2022
+Channel Partners,Canada,Paseo,None,2518,10,12,"30,216",0,"30,216","7,554","22,662",Jun-23,2023
+Midmarket,Canada,Paseo,None,2152,10,15,"32,280",0,"32,280","21,520","10,760",Dec-22,2022
+Midmarket,Canada,Paseo,Low,2363,10,15,"35,445",709,"34,736","23,630","11,106",Feb-23,2023
+Channel Partners,Canada,Paseo,Low,1295,10,12,"15,540",311,"15,229","3,885","11,344",Oct-23,2023
+Small Business,Canada,Paseo,Low,1916,10,300,"5,74,800","11,496","5,63,304","4,79,000","84,304",Dec-23,2023
+Enterprise,Canada,Paseo,Low,2729,10,125,"3,41,125","6,823","3,34,303","3,27,480","6,823",Dec-23,2023
+Enterprise,Canada,Paseo,Low,1774,10,125,"2,21,750","6,653","2,15,098","2,12,880","2,218",Mar-23,2023
+Enterprise,Canada,Paseo,Low,2009,10,125,"2,51,125","7,534","2,43,591","2,41,080","2,511",Oct-23,2023
+Midmarket,Canada,Paseo,Low,218,10,15,"3,270",131,"3,139","2,180",959,Sep-23,2023
+Channel Partners,Canada,Paseo,Medium,2431,10,12,"29,172","1,459","27,713","7,293","20,420",Dec-23,2023
+Channel Partners,Canada,Paseo,Medium,2299,10,12,"27,588","1,655","25,933","6,897","19,036",Oct-22,2022
+Small Business,Canada,Paseo,Medium,1702,10,300,"5,10,600","35,742","4,74,858","4,25,500","49,358",May-23,2023
+Small Business,Canada,Paseo,Medium,1404,10,300,"4,21,200","29,484","3,91,716","3,51,000","40,716",Nov-22,2022
+Small Business,Canada,Paseo,Medium,1094,10,300,"3,28,200","29,538","2,98,662","2,73,500","25,162",Jun-23,2023
+Small Business,Canada,Paseo,High,873,10,300,"2,61,900","28,809","2,33,091","2,18,250","14,841",Jan-23,2023
+Channel Partners,Canada,Paseo,High,4026,10,12,"48,312","5,314","42,998","12,078","30,920",Jul-23,2023
+Small Business,Canada,Paseo,High,1366,10,300,"4,09,800","45,078","3,64,722","3,41,500","23,222",Nov-23,2023
+Enterprise,Canada,Paseo,High,1583,10,125,"1,97,875","25,724","1,72,151","1,89,960","-17,809",Jun-23,2023
+Midmarket,Canada,Paseo,High,1565,10,15,"23,475","3,052","20,423","15,650","4,773",Oct-23,2023
+Midmarket,Canada,Paseo,High,2470,10,15,"37,050","5,187","31,863","24,700","7,163",Sep-22,2022
+Midmarket,Canada,Paseo,High,1743,10,15,"26,145","3,660","22,485","17,430","5,055",Oct-22,2022
+Channel Partners,Canada,Paseo,High,2222,10,12,"26,664","3,733","22,931","6,666","16,265",Nov-22,2022
+Midmarket,Canada,Paseo,High,1614,10,15,"24,210","3,632","20,579","16,140","4,439",Apr-23,2023
+Midmarket,Canada,Paseo,High,2559,10,15,"38,385","5,758","32,627","25,590","7,037",Aug-23,2023
