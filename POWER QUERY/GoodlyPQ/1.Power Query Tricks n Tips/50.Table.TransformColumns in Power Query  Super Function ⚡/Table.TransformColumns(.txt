@@ -1,0 +1,10 @@
+=Table.TransformColumns(
+TableName,
+{
+
+{"ColumnName1", ITransformationFunction, DataType},
+{"ColumnName2", TransformationFunction, DataType}
+
+}
+
+)
