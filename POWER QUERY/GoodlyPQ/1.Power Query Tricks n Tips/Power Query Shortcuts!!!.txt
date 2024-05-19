@@ -1,27 +1,33 @@
-Power Query Shortcuts!!!
+### Power Query Shortcuts
 
-* Zoom [Ctrl  Shift +]
+**1. Zoom Controls:**
+   - Zoom In: `Ctrl + Shift + +`
+   - Reset Zoom to 100%: `Ctrl + 0`
 
-* Moving Code Up or Down [Alt Down or Up Arrow]
+**2. Code Navigation and Editing:**
+   - Move Code Up: `Alt + Up Arrow`
+   - Move Code Down: `Alt + Down Arrow`
+   - Duplicate Code: `Alt + Shift + Down Arrow`
+   - Scroll Screen Up: `Ctrl + Up Arrow`
+   - Scroll Screen Down: `Ctrl + Down Arrow`
 
-* Duplicate Code [Alt Shift Down Arrow]
+**3. Code Formatting:**
+   - Increase Indentation: `Ctrl + ]`
+   - Decrease Indentation: `Ctrl + [`
 
-* Moving Or Scrolling Screen [Ctrl Down or Up Arrow]
+**4. Commenting Code:**
+   - Comment or Uncomment Line: `Ctrl + /`
+   - Toggle Block Comment (Multiline Comment): `Alt + Shift + A`
 
-* Format Right Indentation (Ctrl ])
+**5. Code Deletion:**
+   - Delete Code Line: `Ctrl + Shift + K`
 
-* Format Left Indentation (Ctrl [)
+**6. Editor Controls:**
+   - Open Advanced Editor: `Alt + 1`
 
-* Comment or Uncomment Code Line [Ctrl /] 
+**7. Text Selection and Editing:**
+   - Go to Next Highlighted Text: `F7`
+   - Go to Previous Highlighted Text: `Shift + F7`
+   - Select Multiple Text Input Locations: `Alt + Click`
 
-* Deleting Code [Ctrl Shift K] 
-
-* Open Advanced Editor [Alt 1] 
-
-* Reset Zoom to 100% [Ctrl 0]
-
-* Go to Next & Previous Highlight Text [F7 or Shift F7]
-
-* Select Multiple Text Input Locations For Editing [Alt Click]
-
-* Toggle Block Comment (Multiline Comment)  [Alt Shift A]
+These shortcuts provide efficient ways to manage and manipulate your code in Power Query, enhancing productivity and ease of use.

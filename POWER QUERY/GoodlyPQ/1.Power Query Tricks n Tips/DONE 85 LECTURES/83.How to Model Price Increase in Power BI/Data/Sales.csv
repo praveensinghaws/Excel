@@ -1,0 +1,999 @@
+Tran Id,Date,Region,Product ID,Channel,Units
+"100J11",2011-01-02 00:00:00.000,"New Delhi","PRO-HO","Promotional",3
+"102J11",2011-01-03 00:00:00.000,"New Delhi","REP-CREM","Promotional",4
+"108J11",2011-01-07 00:00:00.000,"New Delhi","SIL-SHAM","Promotional",4
+"115J11",2011-01-14 00:00:00.000,"New Delhi","H-GEL","Promotional",1
+"118J11",2011-01-17 00:00:00.000,"New Delhi","PRO-HO","Promotional",4
+"121J11",2011-01-21 00:00:00.000,"New Delhi","H-GEL","Promotional",2
+"127J11",2011-01-29 00:00:00.000,"New Delhi","PRO-HO","Promotional",4
+"138F11",2011-02-17 00:00:00.000,"New Delhi","SIL-SHAM","Promotional",1
+"139F11",2011-02-18 00:00:00.000,"New Delhi","HMAS-OIL","Promotional",3
+"143F11",2011-02-20 00:00:00.000,"New Delhi","SMOT","Promotional",4
+"144F11",2011-02-20 00:00:00.000,"New Delhi","HMAS-OIL","Promotional",2
+"149M11",2011-03-01 00:00:00.000,"New Delhi","COMB","Promotional",4
+"150M11",2011-03-06 00:00:00.000,"New Delhi","SMOT","Promotional",1
+"151M11",2011-03-08 00:00:00.000,"New Delhi","SMOT","Promotional",1
+"153M11",2011-03-09 00:00:00.000,"New Delhi","SMOT","Promotional",1
+"163M11",2011-03-20 00:00:00.000,"New Delhi","PRO-HO","Promotional",2
+"168M11",2011-03-25 00:00:00.000,"New Delhi","REP-CREM","Promotional",1
+"171M11",2011-03-28 00:00:00.000,"New Delhi","H-CREM","Promotional",4
+"181A11",2011-04-14 00:00:00.000,"New Delhi","H-GEL","Promotional",2
+"183A11",2011-04-15 00:00:00.000,"New Delhi","SIL-SHAM","Promotional",2
+"185A11",2011-04-19 00:00:00.000,"New Delhi","KR-SHAM","Promotional",1
+"192A11",2011-04-29 00:00:00.000,"New Delhi","COMB","Promotional",4
+"193A11",2011-04-29 00:00:00.000,"New Delhi","COMB","Promotional",1
+"196M11",2011-05-03 00:00:00.000,"New Delhi","SIL-SHAM","Promotional",4
+"197M11",2011-05-05 00:00:00.000,"New Delhi","H-CREM","Promotional",4
+"200M11",2011-05-09 00:00:00.000,"New Delhi","KR-SHAM","Promotional",2
+"201M11",2011-05-09 00:00:00.000,"New Delhi","H-CREM","Promotional",2
+"203M11",2011-05-11 00:00:00.000,"New Delhi","H-GEL","Promotional",3
+"208M11",2011-05-18 00:00:00.000,"New Delhi","SIL-SHAM","Promotional",1
+"211M11",2011-05-23 00:00:00.000,"New Delhi","TH-SHAM","Promotional",1
+"212M11",2011-05-23 00:00:00.000,"New Delhi","H-GEL","Promotional",1
+"216M11",2011-05-26 00:00:00.000,"New Delhi","KR-SHAM","Promotional",2
+"218M11",2011-05-27 00:00:00.000,"New Delhi","H-GEL","Promotional",4
+"219M11",2011-05-28 00:00:00.000,"New Delhi","REP-CREM","Promotional",4
+"220M11",2011-05-29 00:00:00.000,"New Delhi","PRO-HO","Promotional",3
+"225J11",2011-06-01 00:00:00.000,"New Delhi","SIL-SHAM","Promotional",1
+"241J11",2011-06-26 00:00:00.000,"New Delhi","SMOT","Promotional",1
+"249J11",2011-07-04 00:00:00.000,"New Delhi","H-CREM","Promotional",1
+"253J11",2011-07-08 00:00:00.000,"New Delhi","SMOT","Promotional",3
+"261J11",2011-07-17 00:00:00.000,"New Delhi","H-CREM","Promotional",4
+"263J11",2011-07-19 00:00:00.000,"New Delhi","PRO-HO","Promotional",2
+"266J11",2011-07-23 00:00:00.000,"New Delhi","TH-SHAM","Promotional",4
+"268J11",2011-07-27 00:00:00.000,"New Delhi","SIL-SHAM","Promotional",3
+"277A11",2011-08-01 00:00:00.000,"New Delhi","H-CREM","Promotional",1
+"288A11",2011-08-22 00:00:00.000,"New Delhi","H-CREM","Promotional",3
+"296A11",2011-08-29 00:00:00.000,"New Delhi","SMOT","Promotional",1
+"299A11",2011-08-30 00:00:00.000,"New Delhi","COMB","Promotional",1
+"301S11",2011-09-03 00:00:00.000,"New Delhi","KR-SHAM","Promotional",2
+"303S11",2011-09-04 00:00:00.000,"New Delhi","HMAS-OIL","Promotional",2
+"307S11",2011-09-06 00:00:00.000,"New Delhi","PRO-HO","Promotional",4
+"313S11",2011-09-11 00:00:00.000,"New Delhi","SMOT","Promotional",1
+"317S11",2011-09-13 00:00:00.000,"New Delhi","SMOT","Promotional",1
+"321S11",2011-09-16 00:00:00.000,"New Delhi","REP-CREM","Promotional",1
+"326S11",2011-09-19 00:00:00.000,"New Delhi","PRO-HO","Promotional",2
+"328S11",2011-09-20 00:00:00.000,"New Delhi","FR-SS","Promotional",2
+"334S11",2011-09-23 00:00:00.000,"New Delhi","HMAS-OIL","Promotional",2
+"344S11",2011-09-29 00:00:00.000,"New Delhi","REP-CREM","Promotional",4
+"348O11",2011-10-02 00:00:00.000,"New Delhi","COMB","Promotional",2
+"365O11",2011-10-15 00:00:00.000,"New Delhi","SIL-SHAM","Promotional",1
+"372O11",2011-10-20 00:00:00.000,"New Delhi","KR-SHAM","Promotional",3
+"374O11",2011-10-21 00:00:00.000,"New Delhi","FR-SS","Promotional",3
+"375O11",2011-10-23 00:00:00.000,"New Delhi","PRO-HO","Promotional",3
+"379O11",2011-10-25 00:00:00.000,"New Delhi","PRO-HO","Promotional",3
+"385O11",2011-10-29 00:00:00.000,"New Delhi","SMOT","Promotional",4
+"386O11",2011-10-30 00:00:00.000,"New Delhi","PRO-HO","Promotional",4
+"387O11",2011-10-30 00:00:00.000,"New Delhi","COMB","Promotional",4
+"389O11",2011-10-31 00:00:00.000,"New Delhi","H-CREM","Promotional",4
+"397N11",2011-11-06 00:00:00.000,"New Delhi","SMOT","Promotional",3
+"404N11",2011-11-08 00:00:00.000,"New Delhi","FR-SS","Promotional",2
+"406N11",2011-11-10 00:00:00.000,"New Delhi","FR-SS","Promotional",2
+"409N11",2011-11-11 00:00:00.000,"New Delhi","PRO-HO","Promotional",4
+"415N11",2011-11-11 00:00:00.000,"New Delhi","FR-SS","Promotional",4
+"416N11",2011-11-12 00:00:00.000,"New Delhi","H-CREM","Promotional",3
+"417N11",2011-11-13 00:00:00.000,"New Delhi","H-GEL","Promotional",5
+"420N11",2011-11-14 00:00:00.000,"New Delhi","KR-SHAM","Promotional",1
+"422N11",2011-11-17 00:00:00.000,"New Delhi","H-GEL","Promotional",4
+"424N11",2011-11-19 00:00:00.000,"New Delhi","H-CREM","Promotional",3
+"437D11",2011-12-01 00:00:00.000,"New Delhi","FR-SS","Promotional",3
+"442D11",2011-12-02 00:00:00.000,"New Delhi","H-CREM","Promotional",1
+"445D11",2011-12-03 00:00:00.000,"New Delhi","H-GEL","Promotional",3
+"452D11",2011-12-06 00:00:00.000,"New Delhi","B-OIL","Promotional",2
+"453D11",2011-12-07 00:00:00.000,"New Delhi","HMAS-OIL","Promotional",2
+"465D11",2011-12-12 00:00:00.000,"New Delhi","COMB","Promotional",4
+"472D11",2011-12-18 00:00:00.000,"New Delhi","COMB","Promotional",2
+"483D11",2011-12-22 00:00:00.000,"New Delhi","H-CREM","Promotional",4
+"488D11",2011-12-25 00:00:00.000,"New Delhi","HMAS-OIL","Promotional",5
+"494D11",2011-12-29 00:00:00.000,"New Delhi","SIL-SHAM","Promotional",2
+"496D11",2011-12-29 00:00:00.000,"New Delhi","B-OIL","Promotional",3
+"504J12",2012-01-03 00:00:00.000,"New Delhi","TH-SHAM","Promotional",4
+"505J12",2012-01-05 00:00:00.000,"New Delhi","REP-CREM","Promotional",2
+"511J12",2012-01-08 00:00:00.000,"New Delhi","H-GEL","Promotional",3
+"514J12",2012-01-08 00:00:00.000,"New Delhi","PRO-HO","Promotional",3
+"521J12",2012-01-12 00:00:00.000,"New Delhi","PRO-HO","Promotional",2
+"527J12",2012-01-14 00:00:00.000,"New Delhi","REP-CREM","Promotional",4
+"528J12",2012-01-15 00:00:00.000,"New Delhi","PRO-HO","Promotional",3
+"533J12",2012-01-17 00:00:00.000,"New Delhi","TH-SHAM","Promotional",4
+"536J12",2012-01-18 00:00:00.000,"New Delhi","COMB","Promotional",2
+"538J12",2012-01-18 00:00:00.000,"New Delhi","PRO-HO","Promotional",3
+"545J12",2012-01-22 00:00:00.000,"New Delhi","COMB","Promotional",3
+"548J12",2012-01-24 00:00:00.000,"New Delhi","HMAS-OIL","Promotional",4
+"554J12",2012-01-26 00:00:00.000,"New Delhi","REP-CREM","Promotional",2
+"556J12",2012-01-27 00:00:00.000,"New Delhi","SIL-SHAM","Promotional",4
+"564J12",2012-01-30 00:00:00.000,"New Delhi","HMAS-OIL","Promotional",4
+"572F12",2012-02-02 00:00:00.000,"New Delhi","COMB","Promotional",3
+"573F12",2012-02-03 00:00:00.000,"New Delhi","KR-SHAM","Promotional",4
+"574F12",2012-02-03 00:00:00.000,"New Delhi","REP-CREM","Promotional",2
+"576F12",2012-02-03 00:00:00.000,"New Delhi","B-OIL","Promotional",1
+"577F12",2012-02-03 00:00:00.000,"New Delhi","H-CREM","Promotional",4
+"580F12",2012-02-06 00:00:00.000,"New Delhi","TH-SHAM","Promotional",3
+"581F12",2012-02-06 00:00:00.000,"New Delhi","COMB","Promotional",1
+"582F12",2012-02-06 00:00:00.000,"New Delhi","SIL-SHAM","Promotional",2
+"583F12",2012-02-06 00:00:00.000,"New Delhi","B-OIL","Promotional",4
+"593F12",2012-02-10 00:00:00.000,"New Delhi","H-CREM","Promotional",4
+"601F12",2012-02-14 00:00:00.000,"New Delhi","TH-SHAM","Promotional",3
+"602F12",2012-02-15 00:00:00.000,"New Delhi","COMB","Promotional",4
+"604F12",2012-02-16 00:00:00.000,"New Delhi","B-OIL","Promotional",1
+"605F12",2012-02-16 00:00:00.000,"New Delhi","H-CREM","Promotional",3
+"608F12",2012-02-17 00:00:00.000,"New Delhi","H-GEL","Promotional",4
+"609F12",2012-02-18 00:00:00.000,"New Delhi","H-GEL","Promotional",4
+"612F12",2012-02-20 00:00:00.000,"New Delhi","REP-CREM","Promotional",1
+"615F12",2012-02-20 00:00:00.000,"New Delhi","TH-SHAM","Promotional",1
+"619F12",2012-02-21 00:00:00.000,"New Delhi","H-GEL","Promotional",4
+"627F12",2012-02-25 00:00:00.000,"New Delhi","HMAS-OIL","Promotional",4
+"628F12",2012-02-25 00:00:00.000,"New Delhi","B-OIL","Promotional",1
+"631F12",2012-02-26 00:00:00.000,"New Delhi","B-OIL","Promotional",2
+"634F12",2012-02-28 00:00:00.000,"New Delhi","H-GEL","Promotional",1
+"637F12",2012-02-28 00:00:00.000,"New Delhi","SMOT","Promotional",2
+"640F12",2012-02-29 00:00:00.000,"New Delhi","SMOT","Promotional",2
+"646M12",2012-03-04 00:00:00.000,"New Delhi","KR-SHAM","Promotional",2
+"657M12",2012-03-07 00:00:00.000,"New Delhi","SIL-SHAM","Promotional",3
+"662M12",2012-03-12 00:00:00.000,"New Delhi","KR-SHAM","Promotional",2
+"666M12",2012-03-17 00:00:00.000,"New Delhi","REP-CREM","Promotional",4
+"671M12",2012-03-18 00:00:00.000,"New Delhi","HMAS-OIL","Promotional",2
+"673M12",2012-03-18 00:00:00.000,"New Delhi","PRO-HO","Promotional",3
+"679M12",2012-03-21 00:00:00.000,"New Delhi","B-OIL","Promotional",3
+"681M12",2012-03-22 00:00:00.000,"New Delhi","FR-SS","Promotional",1
+"688M12",2012-03-25 00:00:00.000,"New Delhi","FR-SS","Promotional",3
+"691M12",2012-03-26 00:00:00.000,"New Delhi","H-GEL","Promotional",3
+"712A12",2012-04-05 00:00:00.000,"New Delhi","PRO-HO","Promotional",2
+"713A12",2012-04-05 00:00:00.000,"New Delhi","HMAS-OIL","Promotional",4
+"718A12",2012-04-06 00:00:00.000,"New Delhi","PRO-HO","Promotional",3
+"720A12",2012-04-08 00:00:00.000,"New Delhi","H-GEL","Promotional",1
+"729A12",2012-04-11 00:00:00.000,"New Delhi","SMOT","Promotional",3
+"730A12",2012-04-11 00:00:00.000,"New Delhi","SIL-SHAM","Promotional",3
+"735A12",2012-04-12 00:00:00.000,"New Delhi","SIL-SHAM","Promotional",4
+"740A12",2012-04-13 00:00:00.000,"New Delhi","FR-SS","Promotional",3
+"745A12",2012-04-16 00:00:00.000,"New Delhi","COMB","Promotional",2
+"755A12",2012-04-19 00:00:00.000,"New Delhi","REP-CREM","Promotional",1
+"758A12",2012-04-20 00:00:00.000,"New Delhi","COMB","Promotional",1
+"764A12",2012-04-21 00:00:00.000,"New Delhi","SMOT","Promotional",2
+"766A12",2012-04-21 00:00:00.000,"New Delhi","HMAS-OIL","Promotional",3
+"769A12",2012-04-23 00:00:00.000,"New Delhi","SMOT","Promotional",2
+"775A12",2012-04-24 00:00:00.000,"New Delhi","SMOT","Promotional",1
+"779A12",2012-04-26 00:00:00.000,"New Delhi","TH-SHAM","Promotional",3
+"787A12",2012-04-29 00:00:00.000,"New Delhi","H-GEL","Promotional",4
+"789A12",2012-04-30 00:00:00.000,"New Delhi","HMAS-OIL","Promotional",1
+"792M12",2012-05-01 00:00:00.000,"New Delhi","PRO-HO","Promotional",4
+"796M12",2012-05-02 00:00:00.000,"New Delhi","SIL-SHAM","Promotional",1
+"797M12",2012-05-02 00:00:00.000,"New Delhi","B-OIL","Promotional",3
+"808M12",2012-05-06 00:00:00.000,"New Delhi","COMB","Promotional",3
+"811M12",2012-05-06 00:00:00.000,"New Delhi","SMOT","Promotional",1
+"813M12",2012-05-07 00:00:00.000,"New Delhi","B-OIL","Promotional",4
+"815M12",2012-05-07 00:00:00.000,"New Delhi","FR-SS","Promotional",2
+"823M12",2012-05-09 00:00:00.000,"New Delhi","SMOT","Promotional",2
+"824M12",2012-05-09 00:00:00.000,"New Delhi","H-CREM","Promotional",3
+"829M12",2012-05-11 00:00:00.000,"New Delhi","PRO-HO","Promotional",3
+"831M12",2012-05-11 00:00:00.000,"New Delhi","FR-SS","Promotional",2
+"839M12",2012-05-12 00:00:00.000,"New Delhi","HMAS-OIL","Promotional",3
+"841M12",2012-05-13 00:00:00.000,"New Delhi","SMOT","Promotional",3
+"847M12",2012-05-15 00:00:00.000,"New Delhi","SMOT","Promotional",1
+"853M12",2012-05-16 00:00:00.000,"New Delhi","FR-SS","Promotional",4
+"854M12",2012-05-16 00:00:00.000,"New Delhi","PRO-HO","Promotional",5
+"856M12",2012-05-16 00:00:00.000,"New Delhi","KR-SHAM","Promotional",1
+"860M12",2012-05-17 00:00:00.000,"New Delhi","KR-SHAM","Promotional",2
+"871M12",2012-05-22 00:00:00.000,"New Delhi","FR-SS","Promotional",3
+"875M12",2012-05-23 00:00:00.000,"New Delhi","B-OIL","Promotional",3
+"886M12",2012-05-27 00:00:00.000,"New Delhi","SIL-SHAM","Promotional",1
+"888M12",2012-05-28 00:00:00.000,"New Delhi","HMAS-OIL","Promotional",5
+"891M12",2012-05-28 00:00:00.000,"New Delhi","H-GEL","Promotional",3
+"892M12",2012-05-28 00:00:00.000,"New Delhi","HMAS-OIL","Promotional",1
+"894M12",2012-05-29 00:00:00.000,"New Delhi","REP-CREM","Promotional",1
+"899J12",2012-06-01 00:00:00.000,"New Delhi","COMB","Promotional",3
+"908J12",2012-06-08 00:00:00.000,"New Delhi","TH-SHAM","Promotional",2
+"913J12",2012-06-10 00:00:00.000,"New Delhi","PRO-HO","Promotional",1
+"915J12",2012-06-11 00:00:00.000,"New Delhi","HMAS-OIL","Promotional",1
+"931J12",2012-06-17 00:00:00.000,"New Delhi","TH-SHAM","Promotional",1
+"943J12",2012-06-21 00:00:00.000,"New Delhi","PRO-HO","Promotional",1
+"944J12",2012-06-22 00:00:00.000,"New Delhi","KR-SHAM","Promotional",4
+"945J12",2012-06-22 00:00:00.000,"New Delhi","H-CREM","Promotional",4
+"953J12",2012-06-27 00:00:00.000,"New Delhi","PRO-HO","Promotional",2
+"959J12",2012-06-28 00:00:00.000,"New Delhi","KR-SHAM","Promotional",3
+"960J12",2012-06-28 00:00:00.000,"New Delhi","SIL-SHAM","Promotional",1
+"961J12",2012-06-29 00:00:00.000,"New Delhi","PRO-HO","Promotional",2
+"962J12",2012-06-29 00:00:00.000,"New Delhi","H-GEL","Promotional",3
+"964J12",2012-06-30 00:00:00.000,"New Delhi","SIL-SHAM","Promotional",1
+"972J12",2012-07-04 00:00:00.000,"New Delhi","H-CREM","Promotional",3
+"973J12",2012-07-05 00:00:00.000,"New Delhi","SMOT","Promotional",2
+"974J12",2012-07-06 00:00:00.000,"New Delhi","TH-SHAM","Promotional",2
+"979J12",2012-07-07 00:00:00.000,"New Delhi","SIL-SHAM","Promotional",4
+"984J12",2012-07-09 00:00:00.000,"New Delhi","SMOT","Promotional",4
+"989J12",2012-07-11 00:00:00.000,"New Delhi","H-CREM","Promotional",1
+"994J12",2012-07-13 00:00:00.000,"New Delhi","SMOT","Promotional",3
+"999J12",2012-07-17 00:00:00.000,"New Delhi","H-CREM","Promotional",1
+"1000J12",2012-07-17 00:00:00.000,"New Delhi","COMB","Promotional",3
+"1007J12",2012-07-22 00:00:00.000,"New Delhi","B-OIL","Promotional",5
+"1015J12",2012-07-25 00:00:00.000,"New Delhi","TH-SHAM","Promotional",5
+"1034A12",2012-08-02 00:00:00.000,"New Delhi","B-OIL","Promotional",4
+"1036A12",2012-08-03 00:00:00.000,"New Delhi","FR-SS","Promotional",1
+"1038A12",2012-08-03 00:00:00.000,"New Delhi","SIL-SHAM","Promotional",2
+"1041A12",2012-08-04 00:00:00.000,"New Delhi","FR-SS","Promotional",2
+"1042A12",2012-08-04 00:00:00.000,"New Delhi","SMOT","Promotional",3
+"1043A12",2012-08-04 00:00:00.000,"New Delhi","KR-SHAM","Promotional",3
+"1044A12",2012-08-04 00:00:00.000,"New Delhi","COMB","Promotional",5
+"1050A12",2012-08-08 00:00:00.000,"New Delhi","KR-SHAM","Promotional",2
+"1055A12",2012-08-11 00:00:00.000,"New Delhi","COMB","Promotional",4
+"1065A12",2012-08-13 00:00:00.000,"New Delhi","KR-SHAM","Promotional",3
+"1081A12",2012-08-22 00:00:00.000,"New Delhi","PRO-HO","Promotional",4
+"1083A12",2012-08-23 00:00:00.000,"New Delhi","HMAS-OIL","Promotional",1
+"1085A12",2012-08-23 00:00:00.000,"New Delhi","SMOT","Promotional",4
+"1086A12",2012-08-24 00:00:00.000,"New Delhi","REP-CREM","Promotional",4
+"1092A12",2012-08-26 00:00:00.000,"New Delhi","B-OIL","Promotional",2
+"101J11",2011-01-02 00:00:00.000,"Mumbai","FR-SS","Promotional",3
+"105J11",2011-01-06 00:00:00.000,"Mumbai","FR-SS","Promotional",1
+"112J11",2011-01-12 00:00:00.000,"Mumbai","COMB","Promotional",1
+"116J11",2011-01-15 00:00:00.000,"Mumbai","COMB","Promotional",3
+"122J11",2011-01-22 00:00:00.000,"Mumbai","FR-SS","Promotional",4
+"133F11",2011-02-11 00:00:00.000,"Mumbai","COMB","Promotional",2
+"137F11",2011-02-16 00:00:00.000,"Mumbai","H-GEL","Promotional",5
+"141F11",2011-02-19 00:00:00.000,"Mumbai","REP-CREM","Promotional",3
+"142F11",2011-02-20 00:00:00.000,"Mumbai","REP-CREM","Promotional",1
+"147F11",2011-02-22 00:00:00.000,"Mumbai","KR-SHAM","Promotional",4
+"158M11",2011-03-16 00:00:00.000,"Mumbai","H-GEL","Promotional",2
+"159M11",2011-03-17 00:00:00.000,"Mumbai","REP-CREM","Promotional",2
+"164M11",2011-03-22 00:00:00.000,"Mumbai","SMOT","Promotional",1
+"165M11",2011-03-22 00:00:00.000,"Mumbai","COMB","Promotional",1
+"169M11",2011-03-27 00:00:00.000,"Mumbai","HMAS-OIL","Promotional",4
+"173A11",2011-04-03 00:00:00.000,"Mumbai","KR-SHAM","Promotional",4
+"180A11",2011-04-14 00:00:00.000,"Mumbai","FR-SS","Promotional",2
+"182A11",2011-04-14 00:00:00.000,"Mumbai","SIL-SHAM","Promotional",1
+"186A11",2011-04-21 00:00:00.000,"Mumbai","TH-SHAM","Promotional",5
+"189A11",2011-04-28 00:00:00.000,"Mumbai","REP-CREM","Promotional",3
+"199M11",2011-05-08 00:00:00.000,"Mumbai","B-OIL","Promotional",1
+"204M11",2011-05-12 00:00:00.000,"Mumbai","TH-SHAM","Promotional",1
+"209M11",2011-05-19 00:00:00.000,"Mumbai","H-GEL","Promotional",2
+"214M11",2011-05-24 00:00:00.000,"Mumbai","SMOT","Promotional",4
+"217M11",2011-05-26 00:00:00.000,"Mumbai","B-OIL","Promotional",5
+"227J11",2011-06-05 00:00:00.000,"Mumbai","PRO-HO","Promotional",2
+"235J11",2011-06-14 00:00:00.000,"Mumbai","SMOT","Promotional",4
+"242J11",2011-06-26 00:00:00.000,"Mumbai","H-CREM","Promotional",2
+"245J11",2011-06-29 00:00:00.000,"Mumbai","H-CREM","Promotional",2
+"246J11",2011-07-01 00:00:00.000,"Mumbai","SIL-SHAM","Promotional",3
+"248J11",2011-07-02 00:00:00.000,"Mumbai","HMAS-OIL","Promotional",4
+"252J11",2011-07-08 00:00:00.000,"Mumbai","H-CREM","Promotional",3
+"254J11",2011-07-08 00:00:00.000,"Mumbai","KR-SHAM","Promotional",1
+"259J11",2011-07-12 00:00:00.000,"Mumbai","SIL-SHAM","Promotional",3
+"269J11",2011-07-27 00:00:00.000,"Mumbai","H-CREM","Promotional",5
+"272J11",2011-07-27 00:00:00.000,"Mumbai","PRO-HO","Promotional",3
+"273J11",2011-07-30 00:00:00.000,"Mumbai","SMOT","Promotional",2
+"274J11",2011-07-30 00:00:00.000,"Mumbai","H-GEL","Promotional",2
+"283A11",2011-08-12 00:00:00.000,"Mumbai","H-CREM","Promotional",1
+"285A11",2011-08-18 00:00:00.000,"Mumbai","SMOT","Promotional",2
+"287A11",2011-08-22 00:00:00.000,"Mumbai","SIL-SHAM","Promotional",3
+"290A11",2011-08-24 00:00:00.000,"Mumbai","B-OIL","Promotional",4
+"291A11",2011-08-25 00:00:00.000,"Mumbai","COMB","Promotional",1
+"293A11",2011-08-27 00:00:00.000,"Mumbai","FR-SS","Promotional",1
+"295A11",2011-08-28 00:00:00.000,"Mumbai","H-GEL","Promotional",1
+"300S11",2011-09-02 00:00:00.000,"Mumbai","SMOT","Promotional",4
+"302S11",2011-09-04 00:00:00.000,"Mumbai","COMB","Promotional",5
+"308S11",2011-09-07 00:00:00.000,"Mumbai","SMOT","Promotional",3
+"309S11",2011-09-07 00:00:00.000,"Mumbai","REP-CREM","Promotional",2
+"310S11",2011-09-08 00:00:00.000,"Mumbai","PRO-HO","Promotional",3
+"323S11",2011-09-17 00:00:00.000,"Mumbai","KR-SHAM","Promotional",3
+"329S11",2011-09-22 00:00:00.000,"Mumbai","PRO-HO","Promotional",5
+"330S11",2011-09-22 00:00:00.000,"Mumbai","TH-SHAM","Promotional",4
+"331S11",2011-09-23 00:00:00.000,"Mumbai","FR-SS","Promotional",4
+"340S11",2011-09-27 00:00:00.000,"Mumbai","FR-SS","Promotional",3
+"341S11",2011-09-27 00:00:00.000,"Mumbai","PRO-HO","Promotional",4
+"347O11",2011-10-01 00:00:00.000,"Mumbai","REP-CREM","Promotional",2
+"353O11",2011-10-05 00:00:00.000,"Mumbai","TH-SHAM","Promotional",1
+"360O11",2011-10-12 00:00:00.000,"Mumbai","PRO-HO","Promotional",2
+"392N11",2011-11-02 00:00:00.000,"Mumbai","TH-SHAM","Promotional",3
+"395N11",2011-11-03 00:00:00.000,"Mumbai","SMOT","Promotional",4
+"398N11",2011-11-06 00:00:00.000,"Mumbai","H-CREM","Promotional",2
+"414N11",2011-11-11 00:00:00.000,"Mumbai","H-GEL","Promotional",4
+"421N11",2011-11-16 00:00:00.000,"Mumbai","COMB","Promotional",4
+"425N11",2011-11-20 00:00:00.000,"Mumbai","COMB","Promotional",5
+"430N11",2011-11-26 00:00:00.000,"Mumbai","PRO-HO","Promotional",3
+"454D11",2011-12-08 00:00:00.000,"Mumbai","TH-SHAM","Promotional",1
+"458D11",2011-12-09 00:00:00.000,"Mumbai","FR-SS","Promotional",3
+"462D11",2011-12-11 00:00:00.000,"Mumbai","B-OIL","Promotional",1
+"463D11",2011-12-11 00:00:00.000,"Mumbai","COMB","Promotional",2
+"467D11",2011-12-15 00:00:00.000,"Mumbai","H-CREM","Promotional",1
+"470D11",2011-12-16 00:00:00.000,"Mumbai","FR-SS","Promotional",2
+"471D11",2011-12-18 00:00:00.000,"Mumbai","PRO-HO","Promotional",4
+"476D11",2011-12-19 00:00:00.000,"Mumbai","TH-SHAM","Promotional",3
+"477D11",2011-12-19 00:00:00.000,"Mumbai","KR-SHAM","Promotional",1
+"489D11",2011-12-26 00:00:00.000,"Mumbai","SMOT","Promotional",3
+"493D11",2011-12-28 00:00:00.000,"Mumbai","B-OIL","Promotional",1
+"495D11",2011-12-29 00:00:00.000,"Mumbai","B-OIL","Promotional",1
+"506J12",2012-01-05 00:00:00.000,"Mumbai","SMOT","Promotional",4
+"515J12",2012-01-08 00:00:00.000,"Mumbai","B-OIL","Promotional",4
+"516J12",2012-01-08 00:00:00.000,"Mumbai","B-OIL","Promotional",4
+"517J12",2012-01-09 00:00:00.000,"Mumbai","TH-SHAM","Promotional",4
+"519J12",2012-01-11 00:00:00.000,"Mumbai","H-GEL","Promotional",4
+"520J12",2012-01-11 00:00:00.000,"Mumbai","SMOT","Promotional",4
+"525J12",2012-01-14 00:00:00.000,"Mumbai","H-GEL","Promotional",1
+"526J12",2012-01-14 00:00:00.000,"Mumbai","SMOT","Promotional",5
+"541J12",2012-01-19 00:00:00.000,"Mumbai","REP-CREM","Promotional",5
+"551J12",2012-01-25 00:00:00.000,"Mumbai","H-CREM","Promotional",2
+"557J12",2012-01-27 00:00:00.000,"Mumbai","HMAS-OIL","Promotional",2
+"566J12",2012-01-31 00:00:00.000,"Mumbai","KR-SHAM","Promotional",2
+"567F12",2012-02-01 00:00:00.000,"Mumbai","H-GEL","Promotional",2
+"568F12",2012-02-01 00:00:00.000,"Mumbai","PRO-HO","Promotional",3
+"569F12",2012-02-01 00:00:00.000,"Mumbai","SIL-SHAM","Promotional",5
+"578F12",2012-02-05 00:00:00.000,"Mumbai","HMAS-OIL","Promotional",3
+"584F12",2012-02-07 00:00:00.000,"Mumbai","PRO-HO","Promotional",4
+"586F12",2012-02-08 00:00:00.000,"Mumbai","SMOT","Promotional",3
+"587F12",2012-02-08 00:00:00.000,"Mumbai","H-GEL","Promotional",1
+"588F12",2012-02-08 00:00:00.000,"Mumbai","KR-SHAM","Promotional",3
+"599F12",2012-02-13 00:00:00.000,"Mumbai","SMOT","Promotional",1
+"603F12",2012-02-15 00:00:00.000,"Mumbai","TH-SHAM","Promotional",3
+"607F12",2012-02-17 00:00:00.000,"Mumbai","PRO-HO","Promotional",4
+"626F12",2012-02-25 00:00:00.000,"Mumbai","REP-CREM","Promotional",2
+"629F12",2012-02-26 00:00:00.000,"Mumbai","PRO-HO","Promotional",4
+"632F12",2012-02-26 00:00:00.000,"Mumbai","SIL-SHAM","Promotional",4
+"636F12",2012-02-28 00:00:00.000,"Mumbai","SIL-SHAM","Promotional",2
+"638F12",2012-02-29 00:00:00.000,"Mumbai","TH-SHAM","Promotional",1
+"643M12",2012-03-02 00:00:00.000,"Mumbai","KR-SHAM","Promotional",1
+"644M12",2012-03-03 00:00:00.000,"Mumbai","TH-SHAM","Promotional",3
+"645M12",2012-03-04 00:00:00.000,"Mumbai","H-CREM","Promotional",3
+"647M12",2012-03-04 00:00:00.000,"Mumbai","H-GEL","Promotional",4
+"653M12",2012-03-06 00:00:00.000,"Mumbai","B-OIL","Promotional",4
+"654M12",2012-03-07 00:00:00.000,"Mumbai","H-CREM","Promotional",2
+"659M12",2012-03-08 00:00:00.000,"Mumbai","PRO-HO","Promotional",1
+"661M12",2012-03-11 00:00:00.000,"Mumbai","KR-SHAM","Promotional",1
+"663M12",2012-03-15 00:00:00.000,"Mumbai","FR-SS","Promotional",2
+"667M12",2012-03-17 00:00:00.000,"Mumbai","PRO-HO","Promotional",1
+"676M12",2012-03-19 00:00:00.000,"Mumbai","SIL-SHAM","Promotional",2
+"678M12",2012-03-21 00:00:00.000,"Mumbai","PRO-HO","Promotional",2
+"686M12",2012-03-24 00:00:00.000,"Mumbai","PRO-HO","Promotional",2
+"689M12",2012-03-25 00:00:00.000,"Mumbai","REP-CREM","Promotional",4
+"695M12",2012-03-29 00:00:00.000,"Mumbai","B-OIL","Promotional",3
+"701A12",2012-04-02 00:00:00.000,"Mumbai","PRO-HO","Promotional",4
+"702A12",2012-04-02 00:00:00.000,"Mumbai","H-CREM","Promotional",2
+"706A12",2012-04-03 00:00:00.000,"Mumbai","TH-SHAM","Promotional",1
+"710A12",2012-04-05 00:00:00.000,"Mumbai","PRO-HO","Promotional",5
+"711A12",2012-04-05 00:00:00.000,"Mumbai","H-GEL","Promotional",2
+"717A12",2012-04-06 00:00:00.000,"Mumbai","HMAS-OIL","Promotional",3
+"722A12",2012-04-08 00:00:00.000,"Mumbai","HMAS-OIL","Promotional",1
+"723A12",2012-04-09 00:00:00.000,"Mumbai","REP-CREM","Promotional",4
+"725A12",2012-04-09 00:00:00.000,"Mumbai","SIL-SHAM","Promotional",2
+"732A12",2012-04-11 00:00:00.000,"Mumbai","PRO-HO","Promotional",3
+"733A12",2012-04-12 00:00:00.000,"Mumbai","SMOT","Promotional",2
+"739A12",2012-04-13 00:00:00.000,"Mumbai","H-GEL","Promotional",4
+"742A12",2012-04-14 00:00:00.000,"Mumbai","COMB","Promotional",1
+"750A12",2012-04-18 00:00:00.000,"Mumbai","H-CREM","Promotional",1
+"765A12",2012-04-21 00:00:00.000,"Mumbai","PRO-HO","Promotional",3
+"770A12",2012-04-23 00:00:00.000,"Mumbai","SIL-SHAM","Promotional",3
+"774A12",2012-04-24 00:00:00.000,"Mumbai","PRO-HO","Promotional",5
+"778A12",2012-04-26 00:00:00.000,"Mumbai","PRO-HO","Promotional",4
+"781A12",2012-04-28 00:00:00.000,"Mumbai","REP-CREM","Promotional",2
+"784A12",2012-04-29 00:00:00.000,"Mumbai","SMOT","Promotional",4
+"785A12",2012-04-29 00:00:00.000,"Mumbai","SIL-SHAM","Promotional",2
+"786A12",2012-04-29 00:00:00.000,"Mumbai","COMB","Promotional",3
+"791A12",2012-04-30 00:00:00.000,"Mumbai","COMB","Promotional",3
+"803M12",2012-05-04 00:00:00.000,"Mumbai","TH-SHAM","Promotional",2
+"810M12",2012-05-06 00:00:00.000,"Mumbai","B-OIL","Promotional",1
+"818M12",2012-05-08 00:00:00.000,"Mumbai","KR-SHAM","Promotional",2
+"819M12",2012-05-08 00:00:00.000,"Mumbai","H-CREM","Promotional",4
+"822M12",2012-05-09 00:00:00.000,"Mumbai","H-CREM","Promotional",4
+"825M12",2012-05-10 00:00:00.000,"Mumbai","H-CREM","Promotional",3
+"830M12",2012-05-11 00:00:00.000,"Mumbai","SIL-SHAM","Promotional",2
+"833M12",2012-05-11 00:00:00.000,"Mumbai","HMAS-OIL","Promotional",4
+"840M12",2012-05-13 00:00:00.000,"Mumbai","HMAS-OIL","Promotional",4
+"852M12",2012-05-15 00:00:00.000,"Mumbai","SMOT","Promotional",2
+"855M12",2012-05-16 00:00:00.000,"Mumbai","B-OIL","Promotional",2
+"865M12",2012-05-19 00:00:00.000,"Mumbai","PRO-HO","Promotional",3
+"882M12",2012-05-26 00:00:00.000,"Mumbai","SMOT","Promotional",2
+"883M12",2012-05-26 00:00:00.000,"Mumbai","TH-SHAM","Promotional",3
+"885M12",2012-05-26 00:00:00.000,"Mumbai","KR-SHAM","Promotional",1
+"897M12",2012-05-30 00:00:00.000,"Mumbai","KR-SHAM","Promotional",3
+"898J12",2012-06-01 00:00:00.000,"Mumbai","COMB","Promotional",3
+"900J12",2012-06-01 00:00:00.000,"Mumbai","SIL-SHAM","Promotional",3
+"907J12",2012-06-08 00:00:00.000,"Mumbai","REP-CREM","Promotional",1
+"914J12",2012-06-10 00:00:00.000,"Mumbai","REP-CREM","Promotional",4
+"925J12",2012-06-16 00:00:00.000,"Mumbai","HMAS-OIL","Promotional",3
+"926J12",2012-06-17 00:00:00.000,"Mumbai","H-GEL","Promotional",3
+"929J12",2012-06-17 00:00:00.000,"Mumbai","SMOT","Promotional",5
+"930J12",2012-06-17 00:00:00.000,"Mumbai","COMB","Promotional",4
+"933J12",2012-06-18 00:00:00.000,"Mumbai","HMAS-OIL","Promotional",3
+"936J12",2012-06-19 00:00:00.000,"Mumbai","COMB","Promotional",1
+"946J12",2012-06-22 00:00:00.000,"Mumbai","KR-SHAM","Promotional",2
+"949J12",2012-06-24 00:00:00.000,"Mumbai","REP-CREM","Promotional",3
+"950J12",2012-06-24 00:00:00.000,"Mumbai","H-GEL","Promotional",1
+"951J12",2012-06-25 00:00:00.000,"Mumbai","KR-SHAM","Promotional",4
+"954J12",2012-06-27 00:00:00.000,"Mumbai","H-GEL","Promotional",1
+"955J12",2012-06-27 00:00:00.000,"Mumbai","PRO-HO","Promotional",4
+"965J12",2012-06-30 00:00:00.000,"Mumbai","H-GEL","Promotional",5
+"966J12",2012-07-01 00:00:00.000,"Mumbai","SMOT","Promotional",1
+"968J12",2012-07-03 00:00:00.000,"Mumbai","REP-CREM","Promotional",2
+"971J12",2012-07-04 00:00:00.000,"Mumbai","KR-SHAM","Promotional",3
+"976J12",2012-07-07 00:00:00.000,"Mumbai","HMAS-OIL","Promotional",4
+"981J12",2012-07-08 00:00:00.000,"Mumbai","REP-CREM","Promotional",3
+"982J12",2012-07-09 00:00:00.000,"Mumbai","PRO-HO","Promotional",3
+"983J12",2012-07-09 00:00:00.000,"Mumbai","TH-SHAM","Promotional",1
+"990J12",2012-07-11 00:00:00.000,"Mumbai","FR-SS","Promotional",1
+"996J12",2012-07-15 00:00:00.000,"Mumbai","REP-CREM","Promotional",3
+"1004J12",2012-07-22 00:00:00.000,"Mumbai","TH-SHAM","Promotional",3
+"1008J12",2012-07-23 00:00:00.000,"Mumbai","H-GEL","Promotional",5
+"1009J12",2012-07-23 00:00:00.000,"Mumbai","SIL-SHAM","Promotional",2
+"1010J12",2012-07-24 00:00:00.000,"Mumbai","SMOT","Promotional",1
+"1011J12",2012-07-24 00:00:00.000,"Mumbai","TH-SHAM","Promotional",2
+"1016J12",2012-07-27 00:00:00.000,"Mumbai","SIL-SHAM","Promotional",3
+"1021J12",2012-07-28 00:00:00.000,"Mumbai","COMB","Promotional",1
+"1023J12",2012-07-28 00:00:00.000,"Mumbai","PRO-HO","Promotional",1
+"1026J12",2012-07-29 00:00:00.000,"Mumbai","HMAS-OIL","Promotional",5
+"1029J12",2012-07-31 00:00:00.000,"Mumbai","REP-CREM","Promotional",3
+"1045A12",2012-08-05 00:00:00.000,"Mumbai","HMAS-OIL","Promotional",1
+"1047A12",2012-08-05 00:00:00.000,"Mumbai","KR-SHAM","Promotional",5
+"1077A12",2012-08-20 00:00:00.000,"Mumbai","TH-SHAM","Promotional",4
+"1080A12",2012-08-21 00:00:00.000,"Mumbai","SMOT","Promotional",3
+"1089A12",2012-08-25 00:00:00.000,"Mumbai","HMAS-OIL","Promotional",4
+"123J11",2011-01-25 00:00:00.000,"Bangalore","COMB","Promotional",3
+"125J11",2011-01-28 00:00:00.000,"Bangalore","TH-SHAM","Promotional",1
+"136F11",2011-02-15 00:00:00.000,"Bangalore","H-CREM","Promotional",2
+"148M11",2011-03-01 00:00:00.000,"Bangalore","H-GEL","Promotional",2
+"215M11",2011-05-25 00:00:00.000,"Bangalore","COMB","Promotional",1
+"238J11",2011-06-22 00:00:00.000,"Bangalore","COMB","Promotional",2
+"243J11",2011-06-27 00:00:00.000,"Bangalore","KR-SHAM","Promotional",3
+"289A11",2011-08-24 00:00:00.000,"Bangalore","PRO-HO","Promotional",1
+"311S11",2011-09-08 00:00:00.000,"Bangalore","H-CREM","Promotional",1
+"337S11",2011-09-25 00:00:00.000,"Bangalore","PRO-HO","Promotional",2
+"349O11",2011-10-02 00:00:00.000,"Bangalore","COMB","Promotional",2
+"359O11",2011-10-11 00:00:00.000,"Bangalore","SMOT","Promotional",1
+"439D11",2011-12-01 00:00:00.000,"Bangalore","HMAS-OIL","Promotional",2
+"457D11",2011-12-09 00:00:00.000,"Bangalore","FR-SS","Promotional",1
+"479D11",2011-12-20 00:00:00.000,"Bangalore","KR-SHAM","Promotional",4
+"503J12",2012-01-03 00:00:00.000,"Bangalore","H-CREM","Promotional",2
+"509J12",2012-01-07 00:00:00.000,"Bangalore","TH-SHAM","Promotional",2
+"549J12",2012-01-24 00:00:00.000,"Bangalore","PRO-HO","Promotional",4
+"591F12",2012-02-10 00:00:00.000,"Bangalore","COMB","Promotional",1
+"597F12",2012-02-12 00:00:00.000,"Bangalore","SIL-SHAM","Promotional",2
+"614F12",2012-02-20 00:00:00.000,"Bangalore","SMOT","Promotional",1
+"624F12",2012-02-24 00:00:00.000,"Bangalore","SMOT","Promotional",1
+"658M12",2012-03-08 00:00:00.000,"Bangalore","FR-SS","Promotional",3
+"665M12",2012-03-16 00:00:00.000,"Bangalore","REP-CREM","Promotional",3
+"690M12",2012-03-26 00:00:00.000,"Bangalore","COMB","Promotional",1
+"693M12",2012-03-27 00:00:00.000,"Bangalore","H-CREM","Promotional",3
+"699A12",2012-04-01 00:00:00.000,"Bangalore","B-OIL","Promotional",1
+"773A12",2012-04-24 00:00:00.000,"Bangalore","SMOT","Promotional",3
+"776A12",2012-04-25 00:00:00.000,"Bangalore","REP-CREM","Promotional",3
+"827M12",2012-05-10 00:00:00.000,"Bangalore","FR-SS","Promotional",3
+"848M12",2012-05-15 00:00:00.000,"Bangalore","HMAS-OIL","Promotional",4
+"857M12",2012-05-16 00:00:00.000,"Bangalore","KR-SHAM","Promotional",1
+"887M12",2012-05-27 00:00:00.000,"Bangalore","TH-SHAM","Promotional",3
+"909J12",2012-06-08 00:00:00.000,"Bangalore","PRO-HO","Promotional",1
+"938J12",2012-06-20 00:00:00.000,"Bangalore","SMOT","Promotional",3
+"970J12",2012-07-03 00:00:00.000,"Bangalore","H-CREM","Promotional",2
+"985J12",2012-07-09 00:00:00.000,"Bangalore","FR-SS","Promotional",2
+"993J12",2012-07-12 00:00:00.000,"Bangalore","H-GEL","Promotional",3
+"1013J12",2012-07-24 00:00:00.000,"Bangalore","COMB","Promotional",3
+"1051A12",2012-08-08 00:00:00.000,"Bangalore","TH-SHAM","Promotional",3
+"1054A12",2012-08-10 00:00:00.000,"Bangalore","KR-SHAM","Promotional",4
+"1062A12",2012-08-13 00:00:00.000,"Bangalore","HMAS-OIL","Promotional",1
+"1068A12",2012-08-14 00:00:00.000,"Bangalore","H-CREM","Promotional",3
+"1084A12",2012-08-23 00:00:00.000,"Bangalore","REP-CREM","Promotional",3
+"1093A12",2012-08-27 00:00:00.000,"Bangalore","COMB","Promotional",2
+"106J11",2011-01-06 00:00:00.000,"New Delhi","PRO-HO","Organic",4
+"124J11",2011-01-27 00:00:00.000,"Mumbai","KR-SHAM","Organic",3
+"129F11",2011-02-01 00:00:00.000,"New Delhi","H-GEL","Organic",1
+"130F11",2011-02-04 00:00:00.000,"New Delhi","KR-SHAM","Organic",1
+"145F11",2011-02-21 00:00:00.000,"New Delhi","HMAS-OIL","Organic",3
+"146F11",2011-02-22 00:00:00.000,"Mumbai","B-OIL","Organic",4
+"162M11",2011-03-18 00:00:00.000,"Mumbai","TH-SHAM","Organic",1
+"172M11",2011-03-29 00:00:00.000,"New Delhi","TH-SHAM","Organic",4
+"195M11",2011-05-03 00:00:00.000,"New Delhi","H-CREM","Organic",4
+"226J11",2011-06-04 00:00:00.000,"Mumbai","COMB","Organic",5
+"232J11",2011-06-12 00:00:00.000,"Mumbai","HMAS-OIL","Organic",2
+"234J11",2011-06-13 00:00:00.000,"New Delhi","REP-CREM","Organic",2
+"247J11",2011-07-02 00:00:00.000,"Mumbai","HMAS-OIL","Organic",1
+"251J11",2011-07-05 00:00:00.000,"New Delhi","PRO-HO","Organic",3
+"256J11",2011-07-11 00:00:00.000,"Mumbai","B-OIL","Organic",1
+"264J11",2011-07-19 00:00:00.000,"New Delhi","KR-SHAM","Organic",5
+"271J11",2011-07-27 00:00:00.000,"Mumbai","COMB","Organic",3
+"278A11",2011-08-03 00:00:00.000,"New Delhi","REP-CREM","Organic",1
+"280A11",2011-08-07 00:00:00.000,"Bangalore","HMAS-OIL","Organic",1
+"284A11",2011-08-14 00:00:00.000,"Mumbai","PRO-HO","Organic",1
+"297A11",2011-08-30 00:00:00.000,"New Delhi","SIL-SHAM","Organic",3
+"304S11",2011-09-04 00:00:00.000,"Mumbai","COMB","Organic",5
+"305S11",2011-09-05 00:00:00.000,"New Delhi","SMOT","Organic",2
+"306S11",2011-09-06 00:00:00.000,"New Delhi","TH-SHAM","Organic",3
+"320S11",2011-09-15 00:00:00.000,"New Delhi","H-GEL","Organic",3
+"322S11",2011-09-17 00:00:00.000,"Bangalore","HMAS-OIL","Organic",3
+"327S11",2011-09-20 00:00:00.000,"Mumbai","SMOT","Organic",1
+"335S11",2011-09-24 00:00:00.000,"Mumbai","HMAS-OIL","Organic",2
+"342S11",2011-09-28 00:00:00.000,"Mumbai","B-OIL","Organic",1
+"350O11",2011-10-03 00:00:00.000,"New Delhi","REP-CREM","Organic",3
+"369O11",2011-10-18 00:00:00.000,"Bangalore","KR-SHAM","Organic",2
+"388O11",2011-10-31 00:00:00.000,"Mumbai","REP-CREM","Organic",1
+"391N11",2011-11-02 00:00:00.000,"New Delhi","PRO-HO","Organic",4
+"408N11",2011-11-10 00:00:00.000,"New Delhi","SMOT","Organic",2
+"413N11",2011-11-11 00:00:00.000,"New Delhi","SIL-SHAM","Organic",4
+"426N11",2011-11-21 00:00:00.000,"Mumbai","KR-SHAM","Organic",3
+"447D11",2011-12-05 00:00:00.000,"Mumbai","HMAS-OIL","Organic",1
+"455D11",2011-12-08 00:00:00.000,"Bangalore","H-CREM","Organic",4
+"456D11",2011-12-09 00:00:00.000,"Mumbai","HMAS-OIL","Organic",1
+"469D11",2011-12-16 00:00:00.000,"Mumbai","KR-SHAM","Organic",1
+"491D11",2011-12-27 00:00:00.000,"New Delhi","COMB","Organic",1
+"498D11",2011-12-30 00:00:00.000,"New Delhi","B-OIL","Organic",3
+"510J12",2012-01-07 00:00:00.000,"New Delhi","SIL-SHAM","Organic",5
+"522J12",2012-01-12 00:00:00.000,"Mumbai","SIL-SHAM","Organic",1
+"529J12",2012-01-16 00:00:00.000,"New Delhi","PRO-HO","Organic",4
+"555J12",2012-01-26 00:00:00.000,"New Delhi","KR-SHAM","Organic",2
+"563J12",2012-01-30 00:00:00.000,"New Delhi","TH-SHAM","Organic",1
+"570F12",2012-02-01 00:00:00.000,"New Delhi","SMOT","Organic",4
+"594F12",2012-02-11 00:00:00.000,"New Delhi","KR-SHAM","Organic",5
+"618F12",2012-02-21 00:00:00.000,"Mumbai","KR-SHAM","Organic",1
+"621F12",2012-02-22 00:00:00.000,"Mumbai","SMOT","Organic",4
+"639F12",2012-02-29 00:00:00.000,"Mumbai","TH-SHAM","Organic",5
+"642F12",2012-02-29 00:00:00.000,"New Delhi","H-CREM","Organic",1
+"652M12",2012-03-06 00:00:00.000,"Mumbai","REP-CREM","Organic",4
+"655M12",2012-03-07 00:00:00.000,"Mumbai","SIL-SHAM","Organic",4
+"669M12",2012-03-17 00:00:00.000,"Bangalore","SMOT","Organic",3
+"700A12",2012-04-01 00:00:00.000,"Mumbai","HMAS-OIL","Organic",2
+"703A12",2012-04-02 00:00:00.000,"New Delhi","FR-SS","Organic",4
+"707A12",2012-04-03 00:00:00.000,"Bangalore","B-OIL","Organic",5
+"708A12",2012-04-04 00:00:00.000,"New Delhi","COMB","Organic",1
+"719A12",2012-04-06 00:00:00.000,"Mumbai","B-OIL","Organic",5
+"721A12",2012-04-08 00:00:00.000,"New Delhi","PRO-HO","Organic",1
+"724A12",2012-04-09 00:00:00.000,"New Delhi","KR-SHAM","Organic",1
+"726A12",2012-04-10 00:00:00.000,"Mumbai","PRO-HO","Organic",3
+"741A12",2012-04-14 00:00:00.000,"New Delhi","REP-CREM","Organic",4
+"753A12",2012-04-19 00:00:00.000,"New Delhi","KR-SHAM","Organic",3
+"768A12",2012-04-22 00:00:00.000,"Mumbai","TH-SHAM","Organic",3
+"777A12",2012-04-25 00:00:00.000,"Bangalore","SIL-SHAM","Organic",3
+"783A12",2012-04-28 00:00:00.000,"Mumbai","TH-SHAM","Organic",2
+"799M12",2012-05-02 00:00:00.000,"New Delhi","HMAS-OIL","Organic",2
+"817M12",2012-05-08 00:00:00.000,"New Delhi","FR-SS","Organic",4
+"836M12",2012-05-12 00:00:00.000,"Mumbai","HMAS-OIL","Organic",3
+"851M12",2012-05-15 00:00:00.000,"New Delhi","HMAS-OIL","Organic",2
+"859M12",2012-05-17 00:00:00.000,"Bangalore","PRO-HO","Organic",3
+"862M12",2012-05-18 00:00:00.000,"Bangalore","KR-SHAM","Organic",1
+"880M12",2012-05-25 00:00:00.000,"Mumbai","B-OIL","Organic",5
+"889M12",2012-05-28 00:00:00.000,"Mumbai","REP-CREM","Organic",4
+"901J12",2012-06-01 00:00:00.000,"Mumbai","H-GEL","Organic",4
+"903J12",2012-06-03 00:00:00.000,"New Delhi","SIL-SHAM","Organic",1
+"905J12",2012-06-07 00:00:00.000,"Mumbai","SIL-SHAM","Organic",2
+"911J12",2012-06-09 00:00:00.000,"Bangalore","FR-SS","Organic",1
+"918J12",2012-06-12 00:00:00.000,"Mumbai","REP-CREM","Organic",1
+"924J12",2012-06-16 00:00:00.000,"New Delhi","H-CREM","Organic",1
+"928J12",2012-06-17 00:00:00.000,"New Delhi","HMAS-OIL","Organic",1
+"934J12",2012-06-19 00:00:00.000,"New Delhi","FR-SS","Organic",4
+"935J12",2012-06-19 00:00:00.000,"New Delhi","SMOT","Organic",4
+"937J12",2012-06-19 00:00:00.000,"Mumbai","H-CREM","Organic",1
+"940J12",2012-06-21 00:00:00.000,"New Delhi","COMB","Organic",2
+"942J12",2012-06-21 00:00:00.000,"Mumbai","SMOT","Organic",2
+"957J12",2012-06-27 00:00:00.000,"Mumbai","SMOT","Organic",3
+"963J12",2012-06-30 00:00:00.000,"Mumbai","FR-SS","Organic",3
+"969J12",2012-07-03 00:00:00.000,"New Delhi","KR-SHAM","Organic",1
+"975J12",2012-07-06 00:00:00.000,"Mumbai","COMB","Organic",1
+"977J12",2012-07-07 00:00:00.000,"New Delhi","SIL-SHAM","Organic",2
+"986J12",2012-07-10 00:00:00.000,"New Delhi","FR-SS","Organic",5
+"1002J12",2012-07-19 00:00:00.000,"Mumbai","SIL-SHAM","Organic",3
+"1018J12",2012-07-27 00:00:00.000,"Mumbai","TH-SHAM","Organic",4
+"1030J12",2012-07-31 00:00:00.000,"New Delhi","COMB","Organic",1
+"1037A12",2012-08-03 00:00:00.000,"New Delhi","COMB","Organic",4
+"1049A12",2012-08-07 00:00:00.000,"Mumbai","TH-SHAM","Organic",4
+"1059A12",2012-08-12 00:00:00.000,"New Delhi","KR-SHAM","Organic",3
+"1060A12",2012-08-12 00:00:00.000,"New Delhi","H-GEL","Organic",4
+"1064A12",2012-08-13 00:00:00.000,"New Delhi","HMAS-OIL","Organic",4
+"1078A12",2012-08-20 00:00:00.000,"New Delhi","SIL-SHAM","Organic",5
+"1094A12",2012-08-27 00:00:00.000,"New Delhi","FR-SS","Organic",4
+"1097A12",2012-08-29 00:00:00.000,"Bangalore","REP-CREM","Organic",5
+"104J11",2011-01-04 00:00:00.000,"Mumbai","FR-SS","Affiliate",5
+"119J11",2011-01-17 00:00:00.000,"New Delhi","FR-SS","Affiliate",3
+"152M11",2011-03-09 00:00:00.000,"Bangalore","FR-SS","Affiliate",4
+"177A11",2011-04-08 00:00:00.000,"New Delhi","FR-SS","Affiliate",1
+"178A11",2011-04-09 00:00:00.000,"New Delhi","FR-SS","Affiliate",1
+"224M11",2011-05-30 00:00:00.000,"Bangalore","FR-SS","Affiliate",3
+"244J11",2011-06-28 00:00:00.000,"Bangalore","FR-SS","Affiliate",2
+"267J11",2011-07-24 00:00:00.000,"Mumbai","FR-SS","Affiliate",1
+"275J11",2011-07-31 00:00:00.000,"Mumbai","FR-SS","Affiliate",2
+"294A11",2011-08-28 00:00:00.000,"Bangalore","FR-SS","Affiliate",1
+"354O11",2011-10-05 00:00:00.000,"Mumbai","FR-SS","Affiliate",1
+"382O11",2011-10-26 00:00:00.000,"New Delhi","FR-SS","Affiliate",2
+"393N11",2011-11-03 00:00:00.000,"Bangalore","FR-SS","Affiliate",3
+"402N11",2011-11-08 00:00:00.000,"New Delhi","FR-SS","Affiliate",2
+"443D11",2011-12-03 00:00:00.000,"Bangalore","FR-SS","Affiliate",4
+"446D11",2011-12-04 00:00:00.000,"Bangalore","FR-SS","Affiliate",3
+"481D11",2011-12-22 00:00:00.000,"Mumbai","FR-SS","Affiliate",4
+"484D11",2011-12-22 00:00:00.000,"New Delhi","FR-SS","Affiliate",1
+"486D11",2011-12-24 00:00:00.000,"New Delhi","FR-SS","Affiliate",3
+"497D11",2011-12-29 00:00:00.000,"New Delhi","FR-SS","Affiliate",2
+"523J12",2012-01-13 00:00:00.000,"Mumbai","FR-SS","Affiliate",1
+"532J12",2012-01-17 00:00:00.000,"New Delhi","FR-SS","Affiliate",4
+"537J12",2012-01-18 00:00:00.000,"New Delhi","FR-SS","Affiliate",3
+"544J12",2012-01-21 00:00:00.000,"New Delhi","FR-SS","Affiliate",1
+"546J12",2012-01-23 00:00:00.000,"New Delhi","FR-SS","Affiliate",4
+"559J12",2012-01-28 00:00:00.000,"Mumbai","FR-SS","Affiliate",1
+"562J12",2012-01-29 00:00:00.000,"New Delhi","FR-SS","Affiliate",1
+"565J12",2012-01-31 00:00:00.000,"New Delhi","FR-SS","Affiliate",2
+"606F12",2012-02-17 00:00:00.000,"New Delhi","FR-SS","Affiliate",1
+"633F12",2012-02-27 00:00:00.000,"New Delhi","FR-SS","Affiliate",2
+"680M12",2012-03-21 00:00:00.000,"New Delhi","FR-SS","Affiliate",3
+"716A12",2012-04-06 00:00:00.000,"Mumbai","FR-SS","Affiliate",2
+"771A12",2012-04-23 00:00:00.000,"New Delhi","FR-SS","Affiliate",4
+"798M12",2012-05-02 00:00:00.000,"New Delhi","FR-SS","Affiliate",5
+"809M12",2012-05-06 00:00:00.000,"Mumbai","FR-SS","Affiliate",3
+"842M12",2012-05-13 00:00:00.000,"New Delhi","FR-SS","Affiliate",3
+"876M12",2012-05-23 00:00:00.000,"Mumbai","FR-SS","Affiliate",4
+"904J12",2012-06-05 00:00:00.000,"New Delhi","FR-SS","Affiliate",3
+"992J12",2012-07-12 00:00:00.000,"New Delhi","FR-SS","Affiliate",4
+"995J12",2012-07-15 00:00:00.000,"Mumbai","FR-SS","Affiliate",3
+"997J12",2012-07-16 00:00:00.000,"New Delhi","FR-SS","Affiliate",2
+"1003J12",2012-07-20 00:00:00.000,"Mumbai","FR-SS","Affiliate",4
+"1033A12",2012-08-02 00:00:00.000,"Bangalore","FR-SS","Affiliate",3
+"1039A12",2012-08-03 00:00:00.000,"Mumbai","FR-SS","Affiliate",2
+"1040A12",2012-08-04 00:00:00.000,"Bangalore","FR-SS","Affiliate",4
+"1052A12",2012-08-09 00:00:00.000,"Bangalore","FR-SS","Affiliate",3
+"1063A12",2012-08-13 00:00:00.000,"Bangalore","FR-SS","Affiliate",5
+"111J11",2011-01-10 00:00:00.000,"New Delhi","PRO-HO","Affiliate",3
+"120J11",2011-01-19 00:00:00.000,"Mumbai","SIL-SHAM","Affiliate",3
+"154M11",2011-03-10 00:00:00.000,"New Delhi","TH-SHAM","Affiliate",1
+"155M11",2011-03-11 00:00:00.000,"New Delhi","KR-SHAM","Affiliate",2
+"170M11",2011-03-28 00:00:00.000,"New Delhi","H-GEL","Affiliate",2
+"187A11",2011-04-22 00:00:00.000,"New Delhi","SMOT","Affiliate",4
+"222M11",2011-05-30 00:00:00.000,"New Delhi","SIL-SHAM","Affiliate",1
+"236J11",2011-06-16 00:00:00.000,"Bangalore","PRO-HO","Affiliate",4
+"237J11",2011-06-19 00:00:00.000,"New Delhi","HMAS-OIL","Affiliate",3
+"240J11",2011-06-24 00:00:00.000,"New Delhi","TH-SHAM","Affiliate",2
+"255J11",2011-07-10 00:00:00.000,"Mumbai","COMB","Affiliate",4
+"270J11",2011-07-27 00:00:00.000,"Mumbai","B-OIL","Affiliate",1
+"276A11",2011-08-01 00:00:00.000,"New Delhi","TH-SHAM","Affiliate",2
+"282A11",2011-08-11 00:00:00.000,"New Delhi","COMB","Affiliate",1
+"286A11",2011-08-20 00:00:00.000,"New Delhi","SIL-SHAM","Affiliate",5
+"292A11",2011-08-27 00:00:00.000,"Mumbai","KR-SHAM","Affiliate",2
+"298A11",2011-08-30 00:00:00.000,"New Delhi","KR-SHAM","Affiliate",4
+"318S11",2011-09-14 00:00:00.000,"Mumbai","COMB","Affiliate",3
+"336S11",2011-09-24 00:00:00.000,"Mumbai","H-GEL","Affiliate",3
+"343S11",2011-09-29 00:00:00.000,"Bangalore","REP-CREM","Affiliate",2
+"346S11",2011-09-30 00:00:00.000,"New Delhi","H-CREM","Affiliate",1
+"357O11",2011-10-07 00:00:00.000,"Mumbai","TH-SHAM","Affiliate",1
+"358O11",2011-10-08 00:00:00.000,"New Delhi","TH-SHAM","Affiliate",3
+"364O11",2011-10-14 00:00:00.000,"Mumbai","KR-SHAM","Affiliate",1
+"371O11",2011-10-19 00:00:00.000,"New Delhi","SIL-SHAM","Affiliate",1
+"399N11",2011-11-06 00:00:00.000,"Mumbai","H-CREM","Affiliate",4
+"407N11",2011-11-10 00:00:00.000,"Mumbai","SIL-SHAM","Affiliate",3
+"450D11",2011-12-05 00:00:00.000,"New Delhi","PRO-HO","Affiliate",3
+"499J12",2012-01-01 00:00:00.000,"Mumbai","COMB","Affiliate",4
+"512J12",2012-01-08 00:00:00.000,"New Delhi","PRO-HO","Affiliate",3
+"530J12",2012-01-16 00:00:00.000,"Mumbai","H-CREM","Affiliate",4
+"535J12",2012-01-17 00:00:00.000,"Mumbai","KR-SHAM","Affiliate",3
+"540J12",2012-01-19 00:00:00.000,"New Delhi","H-GEL","Affiliate",2
+"560J12",2012-01-29 00:00:00.000,"Mumbai","HMAS-OIL","Affiliate",2
+"561J12",2012-01-29 00:00:00.000,"Mumbai","H-CREM","Affiliate",2
+"585F12",2012-02-08 00:00:00.000,"New Delhi","PRO-HO","Affiliate",2
+"589F12",2012-02-09 00:00:00.000,"New Delhi","KR-SHAM","Affiliate",4
+"600F12",2012-02-13 00:00:00.000,"Mumbai","H-CREM","Affiliate",5
+"610F12",2012-02-19 00:00:00.000,"New Delhi","B-OIL","Affiliate",1
+"635F12",2012-02-28 00:00:00.000,"Mumbai","REP-CREM","Affiliate",4
+"649M12",2012-03-05 00:00:00.000,"New Delhi","KR-SHAM","Affiliate",1
+"651M12",2012-03-06 00:00:00.000,"New Delhi","SMOT","Affiliate",3
+"660M12",2012-03-10 00:00:00.000,"Mumbai","B-OIL","Affiliate",4
+"672M12",2012-03-18 00:00:00.000,"New Delhi","H-CREM","Affiliate",4
+"677M12",2012-03-20 00:00:00.000,"Mumbai","H-CREM","Affiliate",5
+"694M12",2012-03-27 00:00:00.000,"Mumbai","REP-CREM","Affiliate",4
+"697M12",2012-03-29 00:00:00.000,"Mumbai","H-GEL","Affiliate",4
+"704A12",2012-04-02 00:00:00.000,"Mumbai","H-GEL","Affiliate",4
+"705A12",2012-04-03 00:00:00.000,"Bangalore","TH-SHAM","Affiliate",2
+"714A12",2012-04-06 00:00:00.000,"New Delhi","H-GEL","Affiliate",4
+"715A12",2012-04-06 00:00:00.000,"Bangalore","SIL-SHAM","Affiliate",3
+"746A12",2012-04-17 00:00:00.000,"New Delhi","PRO-HO","Affiliate",1
+"754A12",2012-04-19 00:00:00.000,"New Delhi","H-GEL","Affiliate",4
+"756A12",2012-04-19 00:00:00.000,"Mumbai","COMB","Affiliate",4
+"763A12",2012-04-21 00:00:00.000,"New Delhi","SMOT","Affiliate",4
+"780A12",2012-04-27 00:00:00.000,"Mumbai","COMB","Affiliate",3
+"793M12",2012-05-01 00:00:00.000,"Mumbai","H-CREM","Affiliate",1
+"802M12",2012-05-03 00:00:00.000,"Mumbai","PRO-HO","Affiliate",1
+"805M12",2012-05-05 00:00:00.000,"New Delhi","H-GEL","Affiliate",1
+"814M12",2012-05-07 00:00:00.000,"Bangalore","KR-SHAM","Affiliate",1
+"821M12",2012-05-09 00:00:00.000,"Bangalore","SIL-SHAM","Affiliate",1
+"845M12",2012-05-14 00:00:00.000,"New Delhi","COMB","Affiliate",2
+"893M12",2012-05-28 00:00:00.000,"Mumbai","COMB","Affiliate",3
+"895M12",2012-05-29 00:00:00.000,"Mumbai","PRO-HO","Affiliate",1
+"919J12",2012-06-13 00:00:00.000,"Bangalore","SIL-SHAM","Affiliate",1
+"932J12",2012-06-18 00:00:00.000,"New Delhi","REP-CREM","Affiliate",4
+"948J12",2012-06-23 00:00:00.000,"New Delhi","COMB","Affiliate",5
+"958J12",2012-06-28 00:00:00.000,"Mumbai","COMB","Affiliate",3
+"967J12",2012-07-02 00:00:00.000,"New Delhi","B-OIL","Affiliate",2
+"978J12",2012-07-07 00:00:00.000,"Bangalore","H-CREM","Affiliate",2
+"980J12",2012-07-07 00:00:00.000,"Mumbai","H-CREM","Affiliate",1
+"988J12",2012-07-11 00:00:00.000,"New Delhi","H-GEL","Affiliate",5
+"991J12",2012-07-12 00:00:00.000,"Mumbai","H-CREM","Affiliate",2
+"998J12",2012-07-17 00:00:00.000,"New Delhi","H-GEL","Affiliate",4
+"1001J12",2012-07-18 00:00:00.000,"Mumbai","SIL-SHAM","Affiliate",1
+"1025J12",2012-07-29 00:00:00.000,"New Delhi","HMAS-OIL","Affiliate",1
+"1031A12",2012-08-01 00:00:00.000,"New Delhi","B-OIL","Affiliate",2
+"1048A12",2012-08-06 00:00:00.000,"New Delhi","COMB","Affiliate",3
+"1053A12",2012-08-10 00:00:00.000,"Bangalore","HMAS-OIL","Affiliate",2
+"1056A12",2012-08-11 00:00:00.000,"New Delhi","KR-SHAM","Affiliate",4
+"1058A12",2012-08-11 00:00:00.000,"New Delhi","TH-SHAM","Affiliate",1
+"1069A12",2012-08-14 00:00:00.000,"New Delhi","PRO-HO","Affiliate",4
+"1070A12",2012-08-15 00:00:00.000,"Mumbai","SIL-SHAM","Affiliate",5
+"1071A12",2012-08-15 00:00:00.000,"New Delhi","H-CREM","Affiliate",3
+"1076A12",2012-08-18 00:00:00.000,"New Delhi","PRO-HO","Affiliate",4
+"1082A12",2012-08-22 00:00:00.000,"Bangalore","TH-SHAM","Affiliate",2
+"107J11",2011-01-06 00:00:00.000,"Mumbai","HMAS-OIL","Affiliate",3
+"114J11",2011-01-13 00:00:00.000,"Mumbai","SIL-SHAM","Affiliate",2
+"126J11",2011-01-29 00:00:00.000,"New Delhi","H-GEL","Affiliate",3
+"132F11",2011-02-08 00:00:00.000,"New Delhi","HMAS-OIL","Affiliate",4
+"134F11",2011-02-12 00:00:00.000,"Mumbai","SMOT","Affiliate",3
+"135F11",2011-02-14 00:00:00.000,"Mumbai","H-GEL","Affiliate",3
+"161M11",2011-03-18 00:00:00.000,"Mumbai","PRO-HO","Affiliate",3
+"167M11",2011-03-23 00:00:00.000,"Mumbai","PRO-HO","Affiliate",4
+"176A11",2011-04-08 00:00:00.000,"Mumbai","SIL-SHAM","Affiliate",3
+"188A11",2011-04-27 00:00:00.000,"New Delhi","H-CREM","Affiliate",1
+"205M11",2011-05-13 00:00:00.000,"New Delhi","H-GEL","Affiliate",2
+"207M11",2011-05-14 00:00:00.000,"Mumbai","PRO-HO","Affiliate",4
+"229J11",2011-06-11 00:00:00.000,"New Delhi","TH-SHAM","Affiliate",5
+"239J11",2011-06-24 00:00:00.000,"New Delhi","B-OIL","Affiliate",4
+"250J11",2011-07-04 00:00:00.000,"New Delhi","H-CREM","Affiliate",5
+"279A11",2011-08-06 00:00:00.000,"New Delhi","H-GEL","Affiliate",1
+"281A11",2011-08-10 00:00:00.000,"Mumbai","B-OIL","Affiliate",3
+"319S11",2011-09-14 00:00:00.000,"Mumbai","COMB","Affiliate",1
+"324S11",2011-09-18 00:00:00.000,"New Delhi","PRO-HO","Affiliate",4
+"333S11",2011-09-23 00:00:00.000,"New Delhi","H-CREM","Affiliate",5
+"355O11",2011-10-06 00:00:00.000,"Mumbai","KR-SHAM","Affiliate",2
+"363O11",2011-10-14 00:00:00.000,"New Delhi","TH-SHAM","Affiliate",4
+"368O11",2011-10-18 00:00:00.000,"New Delhi","SIL-SHAM","Affiliate",3
+"370O11",2011-10-19 00:00:00.000,"New Delhi","H-CREM","Affiliate",4
+"390O11",2011-10-31 00:00:00.000,"New Delhi","SIL-SHAM","Affiliate",5
+"400N11",2011-11-07 00:00:00.000,"Mumbai","PRO-HO","Affiliate",2
+"401N11",2011-11-08 00:00:00.000,"New Delhi","SIL-SHAM","Affiliate",4
+"403N11",2011-11-08 00:00:00.000,"New Delhi","B-OIL","Affiliate",2
+"405N11",2011-11-09 00:00:00.000,"New Delhi","PRO-HO","Affiliate",4
+"423N11",2011-11-19 00:00:00.000,"Bangalore","H-GEL","Affiliate",3
+"427N11",2011-11-22 00:00:00.000,"New Delhi","H-GEL","Affiliate",3
+"432N11",2011-11-27 00:00:00.000,"Bangalore","B-OIL","Affiliate",2
+"448D11",2011-12-05 00:00:00.000,"New Delhi","B-OIL","Affiliate",4
+"460D11",2011-12-10 00:00:00.000,"Mumbai","TH-SHAM","Affiliate",3
+"464D11",2011-12-12 00:00:00.000,"New Delhi","H-CREM","Affiliate",3
+"473D11",2011-12-18 00:00:00.000,"New Delhi","SMOT","Affiliate",4
+"475D11",2011-12-19 00:00:00.000,"New Delhi","COMB","Affiliate",5
+"492D11",2011-12-27 00:00:00.000,"New Delhi","REP-CREM","Affiliate",4
+"501J12",2012-01-02 00:00:00.000,"New Delhi","H-GEL","Affiliate",1
+"502J12",2012-01-03 00:00:00.000,"New Delhi","COMB","Affiliate",1
+"507J12",2012-01-05 00:00:00.000,"Mumbai","SIL-SHAM","Affiliate",2
+"524J12",2012-01-13 00:00:00.000,"Mumbai","HMAS-OIL","Affiliate",2
+"531J12",2012-01-16 00:00:00.000,"Bangalore","HMAS-OIL","Affiliate",2
+"552J12",2012-01-25 00:00:00.000,"Mumbai","PRO-HO","Affiliate",4
+"579F12",2012-02-05 00:00:00.000,"Mumbai","SIL-SHAM","Affiliate",1
+"590F12",2012-02-09 00:00:00.000,"Bangalore","SIL-SHAM","Affiliate",1
+"592F12",2012-02-10 00:00:00.000,"Bangalore","SIL-SHAM","Affiliate",1
+"613F12",2012-02-20 00:00:00.000,"Bangalore","SMOT","Affiliate",4
+"630F12",2012-02-26 00:00:00.000,"New Delhi","SIL-SHAM","Affiliate",3
+"648M12",2012-03-05 00:00:00.000,"Mumbai","SMOT","Affiliate",3
+"656M12",2012-03-07 00:00:00.000,"Bangalore","PRO-HO","Affiliate",4
+"674M12",2012-03-19 00:00:00.000,"New Delhi","KR-SHAM","Affiliate",4
+"687M12",2012-03-25 00:00:00.000,"Bangalore","KR-SHAM","Affiliate",1
+"692M12",2012-03-26 00:00:00.000,"Mumbai","KR-SHAM","Affiliate",4
+"734A12",2012-04-12 00:00:00.000,"Mumbai","SMOT","Affiliate",1
+"736A12",2012-04-13 00:00:00.000,"New Delhi","SMOT","Affiliate",4
+"738A12",2012-04-13 00:00:00.000,"Bangalore","H-CREM","Affiliate",5
+"751A12",2012-04-18 00:00:00.000,"Mumbai","H-CREM","Affiliate",4
+"757A12",2012-04-19 00:00:00.000,"New Delhi","PRO-HO","Affiliate",1
+"790A12",2012-04-30 00:00:00.000,"Mumbai","PRO-HO","Affiliate",3
+"795M12",2012-05-01 00:00:00.000,"New Delhi","H-GEL","Affiliate",3
+"800M12",2012-05-02 00:00:00.000,"New Delhi","TH-SHAM","Affiliate",5
+"801M12",2012-05-02 00:00:00.000,"Mumbai","H-GEL","Affiliate",4
+"816M12",2012-05-07 00:00:00.000,"New Delhi","B-OIL","Affiliate",4
+"820M12",2012-05-08 00:00:00.000,"Bangalore","B-OIL","Affiliate",4
+"826M12",2012-05-10 00:00:00.000,"New Delhi","COMB","Affiliate",3
+"837M12",2012-05-12 00:00:00.000,"Mumbai","COMB","Affiliate",2
+"843M12",2012-05-14 00:00:00.000,"Mumbai","HMAS-OIL","Affiliate",2
+"846M12",2012-05-15 00:00:00.000,"Mumbai","REP-CREM","Affiliate",1
+"864M12",2012-05-19 00:00:00.000,"Mumbai","REP-CREM","Affiliate",5
+"872M12",2012-05-22 00:00:00.000,"Mumbai","H-GEL","Affiliate",3
+"874M12",2012-05-22 00:00:00.000,"New Delhi","KR-SHAM","Affiliate",3
+"884M12",2012-05-26 00:00:00.000,"Mumbai","KR-SHAM","Affiliate",4
+"896M12",2012-05-30 00:00:00.000,"New Delhi","B-OIL","Affiliate",4
+"956J12",2012-06-27 00:00:00.000,"Mumbai","TH-SHAM","Affiliate",2
+"1006J12",2012-07-22 00:00:00.000,"New Delhi","SIL-SHAM","Affiliate",4
+"1020J12",2012-07-28 00:00:00.000,"New Delhi","H-GEL","Affiliate",1
+"1046A12",2012-08-05 00:00:00.000,"New Delhi","H-GEL","Affiliate",3
+"1057A12",2012-08-11 00:00:00.000,"Mumbai","PRO-HO","Affiliate",2
+"1067A12",2012-08-14 00:00:00.000,"Bangalore","COMB","Affiliate",2
+"1087A12",2012-08-24 00:00:00.000,"Mumbai","H-CREM","Affiliate",4
+"1088A12",2012-08-24 00:00:00.000,"Mumbai","SMOT","Affiliate",3
+"1091A12",2012-08-26 00:00:00.000,"Mumbai","KR-SHAM","Affiliate",4
+"1095A12",2012-08-28 00:00:00.000,"Mumbai","B-OIL","Affiliate",4
+"1096A12",2012-08-29 00:00:00.000,"New Delhi","PRO-HO","Affiliate",3
+"140F11",2011-02-19 00:00:00.000,"New Delhi","B-OIL","Affiliate",1
+"160M11",2011-03-18 00:00:00.000,"Mumbai","H-GEL","Affiliate",4
+"184A11",2011-04-17 00:00:00.000,"Mumbai","PRO-HO","Affiliate",2
+"191A11",2011-04-29 00:00:00.000,"New Delhi","KR-SHAM","Affiliate",3
+"213M11",2011-05-24 00:00:00.000,"New Delhi","PRO-HO","Affiliate",5
+"223M11",2011-05-30 00:00:00.000,"Mumbai","TH-SHAM","Affiliate",2
+"230J11",2011-06-11 00:00:00.000,"Bangalore","SIL-SHAM","Affiliate",1
+"315S11",2011-09-13 00:00:00.000,"Mumbai","TH-SHAM","Affiliate",1
+"316S11",2011-09-13 00:00:00.000,"New Delhi","SMOT","Affiliate",2
+"339S11",2011-09-26 00:00:00.000,"Mumbai","H-CREM","Affiliate",4
+"351O11",2011-10-04 00:00:00.000,"Mumbai","KR-SHAM","Affiliate",3
+"356O11",2011-10-06 00:00:00.000,"New Delhi","TH-SHAM","Affiliate",1
+"366O11",2011-10-16 00:00:00.000,"Mumbai","B-OIL","Affiliate",4
+"376O11",2011-10-23 00:00:00.000,"Bangalore","HMAS-OIL","Affiliate",2
+"377O11",2011-10-25 00:00:00.000,"New Delhi","SMOT","Affiliate",3
+"378O11",2011-10-25 00:00:00.000,"New Delhi","REP-CREM","Affiliate",3
+"428N11",2011-11-22 00:00:00.000,"Mumbai","PRO-HO","Affiliate",3
+"433N11",2011-11-28 00:00:00.000,"Mumbai","TH-SHAM","Affiliate",4
+"435N11",2011-11-30 00:00:00.000,"New Delhi","SIL-SHAM","Affiliate",3
+"436D11",2011-12-01 00:00:00.000,"New Delhi","TH-SHAM","Affiliate",2
+"444D11",2011-12-03 00:00:00.000,"New Delhi","REP-CREM","Affiliate",3
+"451D11",2011-12-05 00:00:00.000,"Mumbai","PRO-HO","Affiliate",2
+"478D11",2011-12-20 00:00:00.000,"Mumbai","SIL-SHAM","Affiliate",3
+"482D11",2011-12-22 00:00:00.000,"Bangalore","KR-SHAM","Affiliate",3
+"485D11",2011-12-23 00:00:00.000,"New Delhi","SIL-SHAM","Affiliate",1
+"487D11",2011-12-24 00:00:00.000,"Mumbai","SIL-SHAM","Affiliate",1
+"518J12",2012-01-10 00:00:00.000,"New Delhi","SMOT","Affiliate",3
+"534J12",2012-01-17 00:00:00.000,"Bangalore","H-CREM","Affiliate",2
+"539J12",2012-01-19 00:00:00.000,"Bangalore","PRO-HO","Affiliate",5
+"542J12",2012-01-20 00:00:00.000,"Mumbai","H-GEL","Affiliate",2
+"547J12",2012-01-23 00:00:00.000,"New Delhi","TH-SHAM","Affiliate",3
+"550J12",2012-01-24 00:00:00.000,"Mumbai","SIL-SHAM","Affiliate",4
+"553J12",2012-01-25 00:00:00.000,"New Delhi","TH-SHAM","Affiliate",3
+"571F12",2012-02-02 00:00:00.000,"Mumbai","REP-CREM","Affiliate",1
+"595F12",2012-02-11 00:00:00.000,"New Delhi","PRO-HO","Affiliate",4
+"596F12",2012-02-12 00:00:00.000,"Bangalore","H-GEL","Affiliate",4
+"616F12",2012-02-20 00:00:00.000,"Mumbai","TH-SHAM","Affiliate",4
+"617F12",2012-02-20 00:00:00.000,"New Delhi","H-CREM","Affiliate",3
+"620F12",2012-02-22 00:00:00.000,"New Delhi","COMB","Affiliate",4
+"625F12",2012-02-25 00:00:00.000,"Bangalore","REP-CREM","Affiliate",4
+"664M12",2012-03-16 00:00:00.000,"Mumbai","REP-CREM","Affiliate",4
+"668M12",2012-03-17 00:00:00.000,"New Delhi","KR-SHAM","Affiliate",1
+"675M12",2012-03-19 00:00:00.000,"New Delhi","KR-SHAM","Affiliate",4
+"682M12",2012-03-23 00:00:00.000,"Mumbai","PRO-HO","Affiliate",1
+"683M12",2012-03-23 00:00:00.000,"New Delhi","SIL-SHAM","Affiliate",3
+"685M12",2012-03-23 00:00:00.000,"New Delhi","HMAS-OIL","Affiliate",2
+"696M12",2012-03-29 00:00:00.000,"Mumbai","TH-SHAM","Affiliate",1
+"698M12",2012-03-30 00:00:00.000,"New Delhi","TH-SHAM","Affiliate",2
+"731A12",2012-04-11 00:00:00.000,"New Delhi","H-GEL","Affiliate",1
+"743A12",2012-04-14 00:00:00.000,"New Delhi","PRO-HO","Affiliate",4
+"747A12",2012-04-17 00:00:00.000,"Bangalore","REP-CREM","Affiliate",4
+"749A12",2012-04-17 00:00:00.000,"Mumbai","TH-SHAM","Affiliate",1
+"761A12",2012-04-20 00:00:00.000,"Bangalore","PRO-HO","Affiliate",2
+"767A12",2012-04-21 00:00:00.000,"Mumbai","H-CREM","Affiliate",2
+"782A12",2012-04-28 00:00:00.000,"Bangalore","COMB","Affiliate",3
+"794M12",2012-05-01 00:00:00.000,"Mumbai","B-OIL","Affiliate",1
+"804M12",2012-05-05 00:00:00.000,"Mumbai","H-CREM","Affiliate",2
+"806M12",2012-05-06 00:00:00.000,"Bangalore","KR-SHAM","Affiliate",2
+"807M12",2012-05-06 00:00:00.000,"Mumbai","KR-SHAM","Affiliate",1
+"812M12",2012-05-07 00:00:00.000,"New Delhi","REP-CREM","Affiliate",1
+"828M12",2012-05-10 00:00:00.000,"Mumbai","SIL-SHAM","Affiliate",1
+"838M12",2012-05-12 00:00:00.000,"Mumbai","PRO-HO","Affiliate",3
+"861M12",2012-05-17 00:00:00.000,"Mumbai","H-GEL","Affiliate",4
+"863M12",2012-05-18 00:00:00.000,"New Delhi","REP-CREM","Affiliate",5
+"870M12",2012-05-21 00:00:00.000,"Bangalore","KR-SHAM","Affiliate",3
+"873M12",2012-05-22 00:00:00.000,"New Delhi","H-CREM","Affiliate",5
+"879M12",2012-05-24 00:00:00.000,"Mumbai","HMAS-OIL","Affiliate",1
+"881M12",2012-05-25 00:00:00.000,"Bangalore","KR-SHAM","Affiliate",3
+"906J12",2012-06-07 00:00:00.000,"Mumbai","PRO-HO","Affiliate",1
+"912J12",2012-06-09 00:00:00.000,"New Delhi","COMB","Affiliate",2
+"920J12",2012-06-14 00:00:00.000,"Mumbai","HMAS-OIL","Affiliate",3
+"922J12",2012-06-15 00:00:00.000,"Mumbai","H-CREM","Affiliate",3
+"939J12",2012-06-21 00:00:00.000,"Mumbai","PRO-HO","Affiliate",1
+"941J12",2012-06-21 00:00:00.000,"Mumbai","B-OIL","Affiliate",2
+"947J12",2012-06-22 00:00:00.000,"Mumbai","H-CREM","Affiliate",1
+"1005J12",2012-07-22 00:00:00.000,"New Delhi","B-OIL","Affiliate",2
+"1012J12",2012-07-24 00:00:00.000,"New Delhi","B-OIL","Affiliate",1
+"1022J12",2012-07-28 00:00:00.000,"New Delhi","KR-SHAM","Affiliate",2
+"1027J12",2012-07-31 00:00:00.000,"New Delhi","TH-SHAM","Affiliate",2
+"1066A12",2012-08-13 00:00:00.000,"New Delhi","H-CREM","Affiliate",1
+"1072A12",2012-08-17 00:00:00.000,"New Delhi","REP-CREM","Affiliate",4
+"1074A12",2012-08-18 00:00:00.000,"Mumbai","KR-SHAM","Affiliate",5
+"1075A12",2012-08-18 00:00:00.000,"Bangalore","KR-SHAM","Affiliate",4
+"1079A12",2012-08-21 00:00:00.000,"New Delhi","H-CREM","Affiliate",2
+"103J11",2011-01-03 00:00:00.000,"Mumbai","SIL-SHAM","Affiliate",3
+"109J11",2011-01-08 00:00:00.000,"New Delhi","H-CREM","Affiliate",4
+"110J11",2011-01-09 00:00:00.000,"Mumbai","H-CREM","Affiliate",4
+"113J11",2011-01-12 00:00:00.000,"Mumbai","KR-SHAM","Affiliate",4
+"117J11",2011-01-17 00:00:00.000,"New Delhi","SMOT","Affiliate",1
+"128J11",2011-01-30 00:00:00.000,"Mumbai","SIL-SHAM","Affiliate",1
+"131F11",2011-02-05 00:00:00.000,"New Delhi","COMB","Affiliate",2
+"156M11",2011-03-12 00:00:00.000,"Bangalore","SMOT","Affiliate",4
+"157M11",2011-03-13 00:00:00.000,"New Delhi","TH-SHAM","Affiliate",2
+"166M11",2011-03-23 00:00:00.000,"New Delhi","HMAS-OIL","Affiliate",2
+"174A11",2011-04-04 00:00:00.000,"Bangalore","SMOT","Affiliate",2
+"175A11",2011-04-07 00:00:00.000,"New Delhi","COMB","Affiliate",3
+"179A11",2011-04-10 00:00:00.000,"New Delhi","KR-SHAM","Affiliate",4
+"190A11",2011-04-28 00:00:00.000,"Mumbai","B-OIL","Affiliate",1
+"194M11",2011-05-01 00:00:00.000,"New Delhi","H-CREM","Affiliate",1
+"198M11",2011-05-05 00:00:00.000,"Mumbai","H-GEL","Affiliate",1
+"202M11",2011-05-10 00:00:00.000,"New Delhi","B-OIL","Affiliate",3
+"206M11",2011-05-14 00:00:00.000,"Mumbai","HMAS-OIL","Affiliate",4
+"210M11",2011-05-22 00:00:00.000,"Mumbai","COMB","Affiliate",3
+"221M11",2011-05-29 00:00:00.000,"New Delhi","SIL-SHAM","Affiliate",4
+"228J11",2011-06-05 00:00:00.000,"New Delhi","H-GEL","Affiliate",4
+"231J11",2011-06-12 00:00:00.000,"New Delhi","SMOT","Affiliate",2
+"233J11",2011-06-13 00:00:00.000,"New Delhi","SIL-SHAM","Affiliate",4
+"257J11",2011-07-11 00:00:00.000,"Mumbai","H-GEL","Affiliate",3
+"258J11",2011-07-12 00:00:00.000,"New Delhi","H-CREM","Affiliate",2
+"260J11",2011-07-14 00:00:00.000,"New Delhi","SIL-SHAM","Affiliate",1
+"262J11",2011-07-18 00:00:00.000,"Bangalore","HMAS-OIL","Affiliate",1
+"265J11",2011-07-23 00:00:00.000,"Mumbai","HMAS-OIL","Affiliate",2
+"312S11",2011-09-10 00:00:00.000,"New Delhi","PRO-HO","Affiliate",1
+"314S11",2011-09-11 00:00:00.000,"New Delhi","COMB","Affiliate",4
+"325S11",2011-09-18 00:00:00.000,"New Delhi","SIL-SHAM","Affiliate",2
+"332S11",2011-09-23 00:00:00.000,"New Delhi","TH-SHAM","Affiliate",4
+"338S11",2011-09-26 00:00:00.000,"New Delhi","H-CREM","Affiliate",2
+"345S11",2011-09-30 00:00:00.000,"New Delhi","H-GEL","Affiliate",4
+"352O11",2011-10-05 00:00:00.000,"New Delhi","HMAS-OIL","Affiliate",1
+"361O11",2011-10-12 00:00:00.000,"New Delhi","TH-SHAM","Affiliate",1
+"362O11",2011-10-13 00:00:00.000,"New Delhi","SMOT","Affiliate",1
+"367O11",2011-10-16 00:00:00.000,"Mumbai","KR-SHAM","Affiliate",4
+"373O11",2011-10-21 00:00:00.000,"Mumbai","REP-CREM","Affiliate",2
+"380O11",2011-10-26 00:00:00.000,"New Delhi","SMOT","Affiliate",1
+"381O11",2011-10-26 00:00:00.000,"Mumbai","COMB","Affiliate",1
+"383O11",2011-10-28 00:00:00.000,"New Delhi","SIL-SHAM","Affiliate",2
+"384O11",2011-10-28 00:00:00.000,"Mumbai","SIL-SHAM","Affiliate",4
+"394N11",2011-11-03 00:00:00.000,"New Delhi","REP-CREM","Affiliate",1
+"396N11",2011-11-05 00:00:00.000,"New Delhi","H-CREM","Affiliate",5
+"410N11",2011-11-11 00:00:00.000,"Mumbai","KR-SHAM","Affiliate",5
+"411N11",2011-11-11 00:00:00.000,"Mumbai","PRO-HO","Affiliate",3
+"412N11",2011-11-11 00:00:00.000,"New Delhi","B-OIL","Affiliate",4
+"418N11",2011-11-14 00:00:00.000,"New Delhi","HMAS-OIL","Affiliate",1
+"419N11",2011-11-14 00:00:00.000,"New Delhi","PRO-HO","Affiliate",4
+"429N11",2011-11-24 00:00:00.000,"New Delhi","PRO-HO","Affiliate",2
+"431N11",2011-11-27 00:00:00.000,"New Delhi","B-OIL","Affiliate",4
+"434N11",2011-11-29 00:00:00.000,"New Delhi","KR-SHAM","Affiliate",3
+"438D11",2011-12-01 00:00:00.000,"Mumbai","SIL-SHAM","Affiliate",4
+"440D11",2011-12-02 00:00:00.000,"Mumbai","COMB","Affiliate",2
+"441D11",2011-12-02 00:00:00.000,"New Delhi","PRO-HO","Affiliate",3
+"449D11",2011-12-05 00:00:00.000,"New Delhi","KR-SHAM","Affiliate",4
+"459D11",2011-12-10 00:00:00.000,"New Delhi","COMB","Affiliate",3
+"461D11",2011-12-10 00:00:00.000,"Mumbai","TH-SHAM","Affiliate",5
+"466D11",2011-12-14 00:00:00.000,"Mumbai","TH-SHAM","Affiliate",4
+"468D11",2011-12-15 00:00:00.000,"Mumbai","KR-SHAM","Affiliate",1
+"474D11",2011-12-18 00:00:00.000,"Mumbai","SMOT","Affiliate",3
+"480D11",2011-12-21 00:00:00.000,"New Delhi","KR-SHAM","Affiliate",2
+"490D11",2011-12-26 00:00:00.000,"Mumbai","HMAS-OIL","Affiliate",2
+"500J12",2012-01-01 00:00:00.000,"New Delhi","PRO-HO","Affiliate",1
+"508J12",2012-01-06 00:00:00.000,"Mumbai","SMOT","Affiliate",3
+"513J12",2012-01-08 00:00:00.000,"New Delhi","PRO-HO","Affiliate",3
+"543J12",2012-01-21 00:00:00.000,"Mumbai","SMOT","Affiliate",4
+"558J12",2012-01-27 00:00:00.000,"New Delhi","PRO-HO","Affiliate",4
+"575F12",2012-02-03 00:00:00.000,"New Delhi","B-OIL","Affiliate",3
+"598F12",2012-02-12 00:00:00.000,"Bangalore","HMAS-OIL","Affiliate",4
+"611F12",2012-02-19 00:00:00.000,"New Delhi","SIL-SHAM","Affiliate",4
+"622F12",2012-02-23 00:00:00.000,"New Delhi","H-GEL","Affiliate",3
+"623F12",2012-02-24 00:00:00.000,"Bangalore","B-OIL","Affiliate",2
+"641F12",2012-02-29 00:00:00.000,"Mumbai","TH-SHAM","Affiliate",2
+"650M12",2012-03-05 00:00:00.000,"Bangalore","KR-SHAM","Affiliate",1
+"670M12",2012-03-18 00:00:00.000,"Mumbai","PRO-HO","Affiliate",2
+"684M12",2012-03-23 00:00:00.000,"New Delhi","H-GEL","Affiliate",2
+"709A12",2012-04-04 00:00:00.000,"Mumbai","COMB","Affiliate",4
+"727A12",2012-04-10 00:00:00.000,"Mumbai","KR-SHAM","Affiliate",2
+"728A12",2012-04-10 00:00:00.000,"Mumbai","HMAS-OIL","Affiliate",2
+"737A12",2012-04-13 00:00:00.000,"Mumbai","TH-SHAM","Affiliate",4
+"744A12",2012-04-15 00:00:00.000,"Mumbai","REP-CREM","Affiliate",1
+"748A12",2012-04-17 00:00:00.000,"Mumbai","KR-SHAM","Affiliate",3
+"752A12",2012-04-18 00:00:00.000,"New Delhi","TH-SHAM","Affiliate",1
+"759A12",2012-04-20 00:00:00.000,"New Delhi","SIL-SHAM","Affiliate",4
+"760A12",2012-04-20 00:00:00.000,"Mumbai","SIL-SHAM","Affiliate",3
+"762A12",2012-04-21 00:00:00.000,"Mumbai","SIL-SHAM","Affiliate",1
+"772A12",2012-04-24 00:00:00.000,"Mumbai","H-CREM","Affiliate",1
+"788A12",2012-04-30 00:00:00.000,"New Delhi","HMAS-OIL","Affiliate",4
+"832M12",2012-05-11 00:00:00.000,"Mumbai","H-CREM","Affiliate",2
+"834M12",2012-05-12 00:00:00.000,"Mumbai","REP-CREM","Affiliate",1
+"835M12",2012-05-12 00:00:00.000,"New Delhi","PRO-HO","Affiliate",3
+"844M12",2012-05-14 00:00:00.000,"Mumbai","COMB","Affiliate",1
+"849M12",2012-05-15 00:00:00.000,"New Delhi","H-CREM","Affiliate",4
+"850M12",2012-05-15 00:00:00.000,"Mumbai","H-GEL","Affiliate",2
+"858M12",2012-05-17 00:00:00.000,"Mumbai","B-OIL","Affiliate",2
+"866M12",2012-05-19 00:00:00.000,"Mumbai","REP-CREM","Affiliate",1
+"867M12",2012-05-20 00:00:00.000,"New Delhi","HMAS-OIL","Affiliate",4
+"868M12",2012-05-21 00:00:00.000,"Mumbai","B-OIL","Affiliate",2
+"869M12",2012-05-21 00:00:00.000,"New Delhi","H-GEL","Affiliate",4
+"877M12",2012-05-23 00:00:00.000,"New Delhi","COMB","Affiliate",3
+"878M12",2012-05-24 00:00:00.000,"New Delhi","HMAS-OIL","Affiliate",4
+"890M12",2012-05-28 00:00:00.000,"Bangalore","SIL-SHAM","Affiliate",5
+"902J12",2012-06-03 00:00:00.000,"Mumbai","PRO-HO","Affiliate",3
+"910J12",2012-06-08 00:00:00.000,"Mumbai","TH-SHAM","Affiliate",5
+"916J12",2012-06-11 00:00:00.000,"New Delhi","H-CREM","Affiliate",5
+"917J12",2012-06-11 00:00:00.000,"New Delhi","H-GEL","Affiliate",1
+"921J12",2012-06-14 00:00:00.000,"Bangalore","H-CREM","Affiliate",3
+"923J12",2012-06-15 00:00:00.000,"Mumbai","B-OIL","Affiliate",1
+"927J12",2012-06-17 00:00:00.000,"Bangalore","H-GEL","Affiliate",4
+"952J12",2012-06-27 00:00:00.000,"Mumbai","COMB","Affiliate",3
+"987J12",2012-07-11 00:00:00.000,"New Delhi","PRO-HO","Affiliate",3
+"1014J12",2012-07-25 00:00:00.000,"New Delhi","REP-CREM","Affiliate",2
+"1017J12",2012-07-27 00:00:00.000,"New Delhi","B-OIL","Affiliate",3
+"1019J12",2012-07-27 00:00:00.000,"New Delhi","H-GEL","Affiliate",1
+"1024J12",2012-07-28 00:00:00.000,"New Delhi","SMOT","Affiliate",1
+"1028J12",2012-07-31 00:00:00.000,"New Delhi","TH-SHAM","Affiliate",4
+"1032A12",2012-08-02 00:00:00.000,"Bangalore","REP-CREM","Affiliate",4
+"1035A12",2012-08-02 00:00:00.000,"Mumbai","HMAS-OIL","Affiliate",3
+"1061A12",2012-08-12 00:00:00.000,"New Delhi","B-OIL","Affiliate",1
+"1073A12",2012-08-17 00:00:00.000,"Bangalore","PRO-HO","Affiliate",1
+"1090A12",2012-08-25 00:00:00.000,"Mumbai","SMOT","Affiliate",3
