@@ -1,0 +1,12 @@
+(InputText as text) =>
+let 
+Cleandata = Text.Combine(
+    List.Select(
+        Text.Split(
+            Text.Trim( InputText ), " "), 
+	    each _ <> ""
+	), 
+    " "
+)
+in 
+Cleandata
